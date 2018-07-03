@@ -1,0 +1,2909 @@
+<?xml version="1.0" ?>
+<USA>
+	<state name="Alabama" population="4779736">
+		<city name="Alabaster" population="31084"/>
+		<city name="Albertville" population="21127"/>
+		<city name="Alexander City" population="14984"/>
+		<city name="Anniston" population="23112"/>
+		<city name="Athens" population="21902"/>
+		<city name="Auburn" population="53404"/>
+		<city name="Bessemer" population="27467"/>
+		<city name="Birmingham" population="211984"/>
+		<city name="Center Point" population="16917"/>
+		<city name="Cullman" population="14796"/>
+		<city name="Daphne" population="21580"/>
+		<city name="Decatur" population="55781"/>
+		<city name="Dothan" population="65778"/>
+		<city name="Enterprise" population="26610"/>
+		<city name="Fairhope" population="16265"/>
+		<city name="Florence" population="39338"/>
+		<city name="Foley" population="15344"/>
+		<city name="Gadsden" population="36900"/>
+		<city name="Helena" population="16962"/>
+		<city name="Homewood" population="25183"/>
+		<city name="Hoover" population="80698"/>
+		<city name="Hueytown" population="16138"/>
+		<city name="Huntsville" population="180376"/>
+		<city name="Madison" population="42955"/>
+		<city name="Millbrook" population="14637"/>
+		<city name="Mobile" population="194666"/>
+		<city name="Montgomery" population="205525"/>
+		<city name="Mountain Brook" population="20466"/>
+		<city name="Northport" population="23270"/>
+		<city name="Opelika" population="26425"/>
+		<city name="Oxford" population="21400"/>
+		<city name="Pelham" population="21450"/>
+		<city name="Phenix City" population="32979"/>
+		<city name="Prattville" population="34010"/>
+		<city name="Prichard" population="22638"/>
+		<city name="Scottsboro" population="14778"/>
+		<city name="Selma" population="20756"/>
+		<city name="Talladega" population="16086"/>
+		<city name="Tillmans Corner" population="17398"/>
+		<city name="Troy" population="18179"/>
+		<city name="Trussville" population="20005"/>
+		<city name="Tuscaloosa" population="90360"/>
+		<city name="Vestavia Hills" population="33781"/>
+	</state>
+	<state name="Alaska" population="710231">
+		<city name="Anchorage" population="291829"/>
+		<city name="Badger" population="19482"/>
+		<city name="College" population="12964"/>
+		<city name="Fairbanks" population="31556"/>
+		<city name="Juneau" population="31275"/>
+		<city name="Kalifornsky" population="7850"/>
+		<city name="Kenai" population="7114"/>
+		<city name="Ketchikan" population="8047"/>
+		<city name="Knik-Fairview" population="14923"/>
+		<city name="Lakes" population="8364"/>
+		<city name="Meadow Lakes" population="7570"/>
+		<city name="Sitka" population="8881"/>
+		<city name="Tanaina" population="8197"/>
+		<city name="Wasilla" population="7819"/>
+	</state>
+	<state name="Arizona" population="6392017">
+		<city name="Anthem" population="21700"/>
+		<city name="Apache Junction" population="35735"/>
+		<city name="Avondale" population="76132"/>
+		<city name="Buckeye" population="50902"/>
+		<city name="Bullhead City" population="39540"/>
+		<city name="Casa Grande" population="48587"/>
+		<city name="Casas Adobes" population="66795"/>
+		<city name="Catalina Foothills" population="50796"/>
+		<city name="Chandler" population="236194"/>
+		<city name="Douglas" population="17504"/>
+		<city name="Drexel Heights" population="27749"/>
+		<city name="El Mirage" population="31797"/>
+		<city name="Eloy" population="16686"/>
+		<city name="Flagstaff" population="66065"/>
+		<city name="Florence" population="25559"/>
+		<city name="Flowing Wells" population="16419"/>
+		<city name="Fortuna Foothills" population="26265"/>
+		<city name="Fountain Hills" population="22489"/>
+		<city name="Gilbert" population="208401"/>
+		<city name="Glendale" population="226099"/>
+		<city name="Goodyear" population="65223"/>
+		<city name="Green Valley" population="21391"/>
+		<city name="Kingman" population="28070"/>
+		<city name="Lake Havasu City" population="52531"/>
+		<city name="Marana" population="34556"/>
+		<city name="Maricopa" population="43482"/>
+		<city name="Mesa" population="440121"/>
+		<city name="New River" population="14952"/>
+		<city name="Nogales" population="20837"/>
+		<city name="Oro Valley" population="41028"/>
+		<city name="Paradise Valley" population="12780"/>
+		<city name="Payson" population="15299"/>
+		<city name="Peoria" population="154094"/>
+		<city name="Phoenix" population="1446909"/>
+		<city name="Prescott" population="39778"/>
+		<city name="Prescott Valley" population="38879"/>
+		<city name="Queen Creek" population="26326"/>
+		<city name="Rio Rico" population="18962"/>
+		<city name="Sahuarita" population="25289"/>
+		<city name="San Luis" population="27909"/>
+		<city name="San Tan Valley" population="81321"/>
+		<city name="Scottsdale" population="217439"/>
+		<city name="Sierra Vista" population="45265"/>
+		<city name="Sierra Vista Southeast" population="14797"/>
+		<city name="Somerton" population="14297"/>
+		<city name="Sun City" population="37499"/>
+		<city name="Sun City West" population="24535"/>
+		<city name="Surprise" population="117511"/>
+		<city name="Tanque Verde" population="16901"/>
+		<city name="Tempe" population="161777"/>
+		<city name="Tucson" population="523475"/>
+		<city name="Yuma" population="90715"/>
+	</state>
+	<state name="Arkansas" population="2915918">
+		<city name="Bella Vista" population="26510"/>
+		<city name="Benton" population="30703"/>
+		<city name="Bentonville" population="35299"/>
+		<city name="Blytheville" population="15642"/>
+		<city name="Bryant" population="16672"/>
+		<city name="Cabot" population="23855"/>
+		<city name="Conway" population="58871"/>
+		<city name="El Dorado" population="18890"/>
+		<city name="Fayetteville" population="73585"/>
+		<city name="Forrest City" population="15396"/>
+		<city name="Fort Smith" population="86270"/>
+		<city name="Hot Springs" population="36277"/>
+		<city name="Jacksonville" population="28356"/>
+		<city name="Jonesboro" population="67308"/>
+		<city name="Little Rock" population="193481"/>
+		<city name="Maumelle" population="17161"/>
+		<city name="North Little Rock" population="62374"/>
+		<city name="Paragould" population="26139"/>
+		<city name="Pine Bluff" population="49057"/>
+		<city name="Rogers" population="56016"/>
+		<city name="Russellville" population="28113"/>
+		<city name="Searcy" population="22857"/>
+		<city name="Sherwood" population="29625"/>
+		<city name="Siloam Springs" population="15079"/>
+		<city name="Springdale" population="70778"/>
+		<city name="Texarkana" population="29905"/>
+		<city name="Van Buren" population="22809"/>
+		<city name="West Memphis" population="26245"/>
+	</state>
+	<state name="California" population="37253956">
+		<city name="Adelanto" population="31760"/>
+		<city name="Agoura Hills" population="20330"/>
+		<city name="Alameda" population="73812"/>
+		<city name="Albany" population="18541"/>
+		<city name="Alhambra" population="83117"/>
+		<city name="Aliso Viejo" population="48098"/>
+		<city name="Altadena" population="42777"/>
+		<city name="American Canyon" population="19542"/>
+		<city name="Anaheim" population="336440"/>
+		<city name="Antelope" population="45770"/>
+		<city name="Antioch" population="102745"/>
+		<city name="Apple Valley" population="69139"/>
+		<city name="Arcadia" population="56359"/>
+		<city name="Arden-Arcade" population="92186"/>
+		<city name="Arvin" population="19304"/>
+		<city name="Ashland" population="21925"/>
+		<city name="Atascadero" population="28304"/>
+		<city name="Atwater" population="28172"/>
+		<city name="Azusa" population="46346"/>
+		<city name="Bakersfield" population="348119"/>
+		<city name="Baldwin Park" population="75397"/>
+		<city name="Banning" population="29594"/>
+		<city name="Barstow" population="22639"/>
+		<city name="Bay Point" population="21349"/>
+		<city name="Beaumont" population="36800"/>
+		<city name="Bell" population="35473"/>
+		<city name="Bellflower" population="76610"/>
+		<city name="Bell Gardens" population="42053"/>
+		<city name="Belmont" population="25835"/>
+		<city name="Benicia" population="26994"/>
+		<city name="Berkeley" population="112487"/>
+		<city name="Beverly Hills" population="33951"/>
+		<city name="Bloomington" population="23851"/>
+		<city name="Blythe" population="20779"/>
+		<city name="Brawley" population="24963"/>
+		<city name="Brea" population="39189"/>
+		<city name="Brentwood" population="51624"/>
+		<city name="Buena Park" population="80613"/>
+		<city name="Burbank" population="103375"/>
+		<city name="Burlingame" population="28806"/>
+		<city name="Calabasas" population="23462"/>
+		<city name="Calexico" population="38573"/>
+		<city name="Camarillo" population="65176"/>
+		<city name="Campbell" population="39343"/>
+		<city name="Carlsbad" population="105569"/>
+		<city name="Carmichael" population="61762"/>
+		<city name="Carson" population="91714"/>
+		<city name="Castro Valley" population="61388"/>
+		<city name="Cathedral City" population="51254"/>
+		<city name="Ceres" population="45894"/>
+		<city name="Cerritos" population="49047"/>
+		<city name="Chico" population="86730"/>
+		<city name="Chino" population="77972"/>
+		<city name="Chino Hills" population="74799"/>
+		<city name="Chula Vista" population="243920"/>
+		<city name="Citrus Heights" population="83261"/>
+		<city name="Claremont" population="34870"/>
+		<city name="Clovis" population="95834"/>
+		<city name="Coachella" population="40724"/>
+		<city name="Colton" population="52153"/>
+		<city name="Compton" population="96418"/>
+		<city name="Concord" population="122154"/>
+		<city name="Corcoran" population="24807"/>
+		<city name="Corona" population="152430"/>
+		<city name="Coronado" population="24702"/>
+		<city name="Costa Mesa" population="110078"/>
+		<city name="Covina" population="47792"/>
+		<city name="Cudahy" population="23809"/>
+		<city name="Culver City" population="38917"/>
+		<city name="Cupertino" population="58572"/>
+		<city name="Cypress" population="47860"/>
+		<city name="Daly City" population="101116"/>
+		<city name="Dana Point" population="33293"/>
+		<city name="Danville" population="41849"/>
+		<city name="Davis" population="65636"/>
+		<city name="Delano" population="53041"/>
+		<city name="Desert Hot Springs" population="27052"/>
+		<city name="Diamond Bar" population="55552"/>
+		<city name="Dinuba" population="21453"/>
+		<city name="Dixon" population="18392"/>
+		<city name="Downey" population="111770"/>
+		<city name="Duarte" population="21325"/>
+		<city name="Dublin" population="46036"/>
+		<city name="East Los Angeles" population="126496"/>
+		<city name="East Palo Alto" population="28155"/>
+		<city name="Eastvale" population="53683"/>
+		<city name="El Cajon" population="99514"/>
+		<city name="El Centro" population="42583"/>
+		<city name="El Cerrito" population="23586"/>
+		<city name="El Dorado Hills" population="42108"/>
+		<city name="Elk Grove" population="153015"/>
+		<city name="El Monte" population="113484"/>
+		<city name="El Paso de Robles" population="29785"/>
+		<city name="Encinitas" population="59519"/>
+		<city name="Escondido" population="143976"/>
+		<city name="Eureka" population="27196"/>
+		<city name="Fairfield" population="105398"/>
+		<city name="Fair Oaks" population="30912"/>
+		<city name="Fallbrook" population="30534"/>
+		<city name="Florence-Graham" population="63387"/>
+		<city name="Florin" population="47513"/>
+		<city name="Folsom" population="72203"/>
+		<city name="Fontana" population="196468"/>
+		<city name="Foothill Farms" population="33121"/>
+		<city name="Foster City" population="30567"/>
+		<city name="Fountain Valley" population="55360"/>
+		<city name="Fremont" population="214079"/>
+		<city name="French Valley" population="23067"/>
+		<city name="Fresno" population="497069"/>
+		<city name="Fullerton" population="135239"/>
+		<city name="Galt" population="23647"/>
+		<city name="Gardena" population="58829"/>
+		<city name="Garden Grove" population="170960"/>
+		<city name="Gilroy" population="48810"/>
+		<city name="Glendale" population="191670"/>
+		<city name="Glendora" population="50395"/>
+		<city name="Goleta" population="29914"/>
+		<city name="Granite Bay" population="20402"/>
+		<city name="Hacienda Heights" population="54038"/>
+		<city name="Hanford" population="54371"/>
+		<city name="Hawthorne" population="84293"/>
+		<city name="Hayward" population="144348"/>
+		<city name="Hemet" population="78728"/>
+		<city name="Hercules" population="24089"/>
+		<city name="Hermosa Beach" population="19506"/>
+		<city name="Hesperia" population="90173"/>
+		<city name="Highland" population="53104"/>
+		<city name="Hollister" population="34741"/>
+		<city name="Huntington Beach" population="191037"/>
+		<city name="Huntington Park" population="58118"/>
+		<city name="Imperial Beach" population="26324"/>
+		<city name="Indio" population="79116"/>
+		<city name="Inglewood" population="109673"/>
+		<city name="Irvine" population="212043"/>
+		<city name="Isla Vista" population="23096"/>
+		<city name="Jurupa Valley" population="95005"/>
+		<city name="La Cañada Flintridge" population="20248"/>
+		<city name="La Crescenta-Montrose" population="19653"/>
+		<city name="Ladera Ranch" population="22980"/>
+		<city name="Lafayette" population="23794"/>
+		<city name="Laguna Beach" population="22730"/>
+		<city name="Laguna Hills" population="30212"/>
+		<city name="Laguna Niguel" population="62985"/>
+		<city name="La Habra" population="60287"/>
+		<city name="Lake Elsinore" population="53418"/>
+		<city name="Lake Forest" population="77448"/>
+		<city name="Lakeside" population="20648"/>
+		<city name="Lakewood" population="80054"/>
+		<city name="La Mesa" population="57013"/>
+		<city name="La Mirada" population="48523"/>
+		<city name="Lancaster" population="156643"/>
+		<city name="La Presa" population="34169"/>
+		<city name="La Puente" population="39827"/>
+		<city name="La Quinta" population="37468"/>
+		<city name="Lathrop" population="18023"/>
+		<city name="La Verne" population="31121"/>
+		<city name="Lawndale" population="32769"/>
+		<city name="Lemon Grove" population="25318"/>
+		<city name="Lemoore" population="24531"/>
+		<city name="Lennox" population="22753"/>
+		<city name="Lincoln" population="42932"/>
+		<city name="Livermore" population="81397"/>
+		<city name="Lodi" population="62134"/>
+		<city name="Loma Linda" population="23287"/>
+		<city name="Lomita" population="20259"/>
+		<city name="Lompoc" population="42440"/>
+		<city name="Long Beach" population="462235"/>
+		<city name="Los Altos" population="29001"/>
+		<city name="Los Angeles" population="3792724"/>
+		<city name="Los Banos" population="35967"/>
+		<city name="Los Gatos" population="29444"/>
+		<city name="Lynwood" population="69766"/>
+		<city name="Madera" population="61416"/>
+		<city name="Manhattan Beach" population="35135"/>
+		<city name="Manteca" population="67276"/>
+		<city name="Marina" population="19718"/>
+		<city name="Martinez" population="36036"/>
+		<city name="Maywood" population="27395"/>
+		<city name="Menifee" population="77519"/>
+		<city name="Menlo Park" population="32019"/>
+		<city name="Merced" population="78957"/>
+		<city name="Millbrae" population="21537"/>
+		<city name="Milpitas" population="66815"/>
+		<city name="Mission Viejo" population="93112"/>
+		<city name="Modesto" population="203119"/>
+		<city name="Monrovia" population="36590"/>
+		<city name="Montclair" population="36664"/>
+		<city name="Montebello" population="62490"/>
+		<city name="Monterey" population="27697"/>
+		<city name="Monterey Park" population="60228"/>
+		<city name="Moorpark" population="34517"/>
+		<city name="Moreno Valley" population="193312"/>
+		<city name="Morgan Hill" population="37905"/>
+		<city name="Mountain View" population="74020"/>
+		<city name="Murrieta" population="103606"/>
+		<city name="Napa" population="77117"/>
+		<city name="National City" population="58560"/>
+		<city name="Newark" population="42573"/>
+		<city name="Newport Beach" population="85219"/>
+		<city name="Norco" population="27063"/>
+		<city name="North Highlands" population="42694"/>
+		<city name="North Tustin" population="24917"/>
+		<city name="Norwalk" population="105549"/>
+		<city name="Novato" population="51872"/>
+		<city name="Oakdale" population="20736"/>
+		<city name="Oakland" population="390822"/>
+		<city name="Oakley" population="35432"/>
+		<city name="Oceanside" population="166992"/>
+		<city name="Oildale" population="32684"/>
+		<city name="Ontario" population="163921"/>
+		<city name="Orange" population="136432"/>
+		<city name="Orangevale" population="33960"/>
+		<city name="Orcutt" population="28905"/>
+		<city name="Oxnard" population="197969"/>
+		<city name="Pacifica" population="37304"/>
+		<city name="Palmdale" population="152755"/>
+		<city name="Palm Desert" population="48450"/>
+		<city name="Palm Springs" population="44538"/>
+		<city name="Palo Alto" population="64409"/>
+		<city name="Paradise" population="26199"/>
+		<city name="Paramount" population="54098"/>
+		<city name="Pasadena" population="137139"/>
+		<city name="Patterson" population="20499"/>
+		<city name="Perris" population="68550"/>
+		<city name="Petaluma" population="57941"/>
+		<city name="Pico Rivera" population="62948"/>
+		<city name="Pittsburg" population="63259"/>
+		<city name="Placentia" population="50917"/>
+		<city name="Pleasant Hill" population="33102"/>
+		<city name="Pleasanton" population="70273"/>
+		<city name="Pomona" population="149030"/>
+		<city name="Porterville" population="57323"/>
+		<city name="Port Hueneme" population="21723"/>
+		<city name="Poway" population="47806"/>
+		<city name="Ramona" population="20292"/>
+		<city name="Rancho Cordova" population="64805"/>
+		<city name="Rancho Cucamonga" population="165372"/>
+		<city name="Rancho Palos Verdes" population="41660"/>
+		<city name="Rancho San Diego" population="21208"/>
+		<city name="Rancho Santa Margarita" population="47855"/>
+		<city name="Redding" population="89861"/>
+		<city name="Redlands" population="68667"/>
+		<city name="Redondo Beach" population="66921"/>
+		<city name="Redwood City" population="76827"/>
+		<city name="Reedley" population="24228"/>
+		<city name="Rialto" population="99150"/>
+		<city name="Richmond" population="103267"/>
+		<city name="Ridgecrest" population="27616"/>
+		<city name="Riverbank" population="22678"/>
+		<city name="Riverside" population="303985"/>
+		<city name="Rocklin" population="57117"/>
+		<city name="Rohnert Park" population="40818"/>
+		<city name="Rosemead" population="53771"/>
+		<city name="Rosemont" population="22681"/>
+		<city name="Roseville" population="119164"/>
+		<city name="Rowland Heights" population="48993"/>
+		<city name="Sacramento" population="466394"/>
+		<city name="Salinas" population="150498"/>
+		<city name="San Bernardino" population="209961"/>
+		<city name="San Bruno" population="41067"/>
+		<city name="San Buenaventura" population="107234"/>
+		<city name="San Carlos" population="28383"/>
+		<city name="San Clemente" population="63482"/>
+		<city name="San Diego" population="1301948"/>
+		<city name="San Dimas" population="33375"/>
+		<city name="San Fernando" population="23646"/>
+		<city name="San Francisco" population="805193"/>
+		<city name="San Gabriel" population="39647"/>
+		<city name="Sanger" population="24258"/>
+		<city name="San Jacinto" population="44199"/>
+		<city name="San Jose" population="952574"/>
+		<city name="San Juan Capistrano" population="34427"/>
+		<city name="San Leandro" population="84952"/>
+		<city name="San Lorenzo" population="23452"/>
+		<city name="San Luis Obispo" population="45164"/>
+		<city name="San Marcos" population="83657"/>
+		<city name="San Mateo" population="97207"/>
+		<city name="San Pablo" population="29512"/>
+		<city name="San Rafael" population="57694"/>
+		<city name="San Ramon" population="71423"/>
+		<city name="Santa Ana" population="324796"/>
+		<city name="Santa Barbara" population="88375"/>
+		<city name="Santa Clara" population="116497"/>
+		<city name="Santa Clarita" population="204186"/>
+		<city name="Santa Cruz" population="59945"/>
+		<city name="Santa Maria" population="99595"/>
+		<city name="Santa Monica" population="89742"/>
+		<city name="Santa Paula" population="29270"/>
+		<city name="Santa Rosa" population="167824"/>
+		<city name="Santee" population="53416"/>
+		<city name="Saratoga" population="30004"/>
+		<city name="Seal Beach" population="24077"/>
+		<city name="Seaside" population="33025"/>
+		<city name="Selma" population="23365"/>
+		<city name="Simi Valley" population="124243"/>
+		<city name="Soledad" population="25738"/>
+		<city name="South El Monte" population="20116"/>
+		<city name="South Gate" population="94417"/>
+		<city name="South Lake Tahoe" population="21402"/>
+		<city name="South Pasadena" population="25627"/>
+		<city name="South San Francisco" population="63654"/>
+		<city name="South San Jose Hills" population="20551"/>
+		<city name="South Whittier" population="57156"/>
+		<city name="Spring Valley" population="28205"/>
+		<city name="Stanton" population="37827"/>
+		<city name="Stockton" population="291726"/>
+		<city name="Suisun City" population="28095"/>
+		<city name="Sunnyvale" population="140060"/>
+		<city name="Temecula" population="100048"/>
+		<city name="Temescal Valley" population="22535"/>
+		<city name="Temple City" population="35550"/>
+		<city name="Thousand Oaks" population="126480"/>
+		<city name="Torrance" population="145259"/>
+		<city name="Tracy" population="83353"/>
+		<city name="Tulare" population="59312"/>
+		<city name="Turlock" population="68619"/>
+		<city name="Tustin" population="75316"/>
+		<city name="Twentynine Palms" population="25048"/>
+		<city name="Union City" population="69516"/>
+		<city name="Upland" population="73713"/>
+		<city name="Vacaville" population="92422"/>
+		<city name="Valinda" population="22822"/>
+		<city name="Vallejo" population="115943"/>
+		<city name="Victorville" population="115921"/>
+		<city name="Vineyard" population="24836"/>
+		<city name="Visalia" population="124452"/>
+		<city name="Vista" population="93501"/>
+		<city name="Walnut" population="29177"/>
+		<city name="Walnut Creek" population="64165"/>
+		<city name="Wasco" population="25552"/>
+		<city name="Watsonville" population="51204"/>
+		<city name="West Carson" population="21699"/>
+		<city name="West Covina" population="106113"/>
+		<city name="West Hollywood" population="34398"/>
+		<city name="Westminster" population="89613"/>
+		<city name="Westmont" population="31853"/>
+		<city name="West Puente Valley" population="22636"/>
+		<city name="West Sacramento" population="48744"/>
+		<city name="West Whittier-Los Nietos" population="25540"/>
+		<city name="Whittier" population="85313"/>
+		<city name="Wildomar" population="32220"/>
+		<city name="Willowbrook" population="35983"/>
+		<city name="Windsor" population="26795"/>
+		<city name="Winter Gardens" population="20631"/>
+		<city name="Woodland" population="55476"/>
+		<city name="Yorba Linda" population="64169"/>
+		<city name="Yuba City" population="65634"/>
+		<city name="Yucaipa" population="51371"/>
+		<city name="Yucca Valley" population="20700"/>
+	</state>
+	<state name="Colorado" population="5029196">
+		<city name="Arvada" population="106642"/>
+		<city name="Aurora" population="324709"/>
+		<city name="Boulder" population="97705"/>
+		<city name="Brighton" population="33780"/>
+		<city name="Broomfield" population="55858"/>
+		<city name="Cañon City" population="16421"/>
+		<city name="Castle Rock" population="48262"/>
+		<city name="Centennial" population="100638"/>
+		<city name="Cimarron Hills" population="16161"/>
+		<city name="Clifton" population="19889"/>
+		<city name="Colorado Springs" population="417436"/>
+		<city name="Columbine" population="24280"/>
+		<city name="Commerce City" population="45916"/>
+		<city name="Dakota Ridge" population="32005"/>
+		<city name="Denver" population="599813"/>
+		<city name="Durango" population="16867"/>
+		<city name="Englewood" population="30259"/>
+		<city name="Erie" population="18161"/>
+		<city name="Evans" population="18546"/>
+		<city name="Fort Collins" population="144651"/>
+		<city name="Fountain" population="25944"/>
+		<city name="Golden" population="18909"/>
+		<city name="Grand Junction" population="59102"/>
+		<city name="Greeley" population="92896"/>
+		<city name="Greenwood Village" population="13921"/>
+		<city name="Highlands Ranch" population="96713"/>
+		<city name="Johnstown" population="9860"/>
+		<city name="Ken Caryl" population="32438"/>
+		<city name="Lafayette" population="24473"/>
+		<city name="Lakewood" population="142651"/>
+		<city name="Littleton" population="41636"/>
+		<city name="Longmont" population="86307"/>
+		<city name="Louisville" population="18410"/>
+		<city name="Loveland" population="66890"/>
+		<city name="Montrose" population="19130"/>
+		<city name="Northglenn" population="35767"/>
+		<city name="Parker" population="45335"/>
+		<city name="Pueblo" population="106544"/>
+		<city name="Pueblo West" population="29637"/>
+		<city name="Security-Widefield" population="32882"/>
+		<city name="Sherrelwood" population="18287"/>
+		<city name="Thornton" population="118777"/>
+		<city name="Westminster" population="106166"/>
+		<city name="Wheat Ridge" population="30183"/>
+		<city name="Windsor" population="18642"/>
+	</state>
+	<state name="Connecticut" population="3574097">
+		<city name="Ansonia" population="19251"/>
+		<city name="Bridgeport" population="144236"/>
+		<city name="Bristol" population="60474"/>
+		<city name="Danbury" population="80903"/>
+		<city name="Darien" population="20732"/>
+		<city name="East Hartford" population="51249"/>
+		<city name="East Haven" population="29209"/>
+		<city name="Hartford" population="124775"/>
+		<city name="Manchester" population="30577"/>
+		<city name="Meriden" population="60855"/>
+		<city name="Middletown" population="47648"/>
+		<city name="Milford" population="51271"/>
+		<city name="Naugatuck" population="31884"/>
+		<city name="New Britain" population="73202"/>
+		<city name="New Haven" population="129890"/>
+		<city name="Newington" population="30538"/>
+		<city name="New London" population="27620"/>
+		<city name="North Haven" population="24088"/>
+		<city name="Norwalk" population="85619"/>
+		<city name="Norwich" population="40496"/>
+		<city name="Shelton" population="39559"/>
+		<city name="Stamford" population="122630"/>
+		<city name="Storrs" population="15344"/>
+		<city name="Stratford" population="51384"/>
+		<city name="Torrington" population="36383"/>
+		<city name="Trumbull" population="36011"/>
+		<city name="Wallingford Center" population="18209"/>
+		<city name="Waterbury" population="110332"/>
+		<city name="West Hartford" population="63292"/>
+		<city name="West Haven" population="55564"/>
+		<city name="Westport" population="26387"/>
+		<city name="Wethersfield" population="26668"/>
+		<city name="Willimantic" population="17737"/>
+	</state>
+	<state name="Delaware" population="897934">
+		<city name="Bear" population="19371"/>
+		<city name="Brookside" population="14353"/>
+		<city name="Dover" population="35806"/>
+		<city name="Glasgow" population="14303"/>
+		<city name="Hockessin" population="13527"/>
+		<city name="Middletown" population="18871"/>
+		<city name="Milford" population="9589"/>
+		<city name="Newark" population="31513"/>
+		<city name="Pike Creek Valley" population="11217"/>
+		<city name="Smyrna" population="10115"/>
+		<city name="Wilmington" population="70852"/>
+	</state>
+	<state name="District of Columbia" population="601723">
+		<city name="Washington" population="601766"/>
+	</state>
+	<state name="Florida" population="18801310">
+		<city name="Alafaya" population="78113"/>
+		<city name="Altamonte Springs" population="41664"/>
+		<city name="Apopka" population="41736"/>
+		<city name="Aventura" population="35762"/>
+		<city name="Bayonet Point" population="23467"/>
+		<city name="Bellview" population="23355"/>
+		<city name="Bloomingdale" population="22711"/>
+		<city name="Boca Raton" population="84401"/>
+		<city name="Bonita Springs" population="43924"/>
+		<city name="Boynton Beach" population="68217"/>
+		<city name="Bradenton" population="49113"/>
+		<city name="Brandon" population="103483"/>
+		<city name="Brent" population="21804"/>
+		<city name="Buenaventura Lakes" population="26079"/>
+		<city name="Cape Coral" population="154307"/>
+		<city name="Carrollwood" population="33365"/>
+		<city name="Casselberry" population="26091"/>
+		<city name="Citrus Park" population="24252"/>
+		<city name="Clearwater" population="108897"/>
+		<city name="Clermont" population="28791"/>
+		<city name="Coconut Creek" population="52938"/>
+		<city name="Cooper City" population="28536"/>
+		<city name="Coral Gables" population="46752"/>
+		<city name="Coral Springs" population="122036"/>
+		<city name="Coral Terrace" population="24376"/>
+		<city name="Country Club" population="47105"/>
+		<city name="Crestview" population="20980"/>
+		<city name="Cutler Bay" population="40286"/>
+		<city name="Dania Beach" population="29639"/>
+		<city name="Davie" population="91958"/>
+		<city name="Daytona Beach" population="61586"/>
+		<city name="DeBary" population="19315"/>
+		<city name="Deerfield Beach" population="75018"/>
+		<city name="DeLand" population="26961"/>
+		<city name="Delray Beach" population="60591"/>
+		<city name="Deltona" population="85123"/>
+		<city name="Doral" population="45709"/>
+		<city name="Dunedin" population="35352"/>
+		<city name="East Lake" population="30962"/>
+		<city name="East Lake-Orient Park" population="22753"/>
+		<city name="Edgewater" population="20778"/>
+		<city name="Egypt Lake-Leto" population="35282"/>
+		<city name="Ensley" population="20602"/>
+		<city name="Estero" population="27989"/>
+		<city name="Eustis" population="18485"/>
+		<city name="Ferry Pass" population="28921"/>
+		<city name="Fleming Island" population="27126"/>
+		<city name="Fort Lauderdale" population="165806"/>
+		<city name="Fort Myers" population="62307"/>
+		<city name="Fort Pierce" population="41917"/>
+		<city name="Fort Walton Beach" population="19518"/>
+		<city name="Fountainebleau" population="59764"/>
+		<city name="Four Corners" population="26116"/>
+		<city name="Fruit Cove" population="29362"/>
+		<city name="Gainesville" population="124304"/>
+		<city name="Golden Gate" population="23961"/>
+		<city name="Golden Glades" population="33145"/>
+		<city name="Greenacres" population="37580"/>
+		<city name="Haines City" population="20577"/>
+		<city name="Hallandale Beach" population="37113"/>
+		<city name="Hialeah" population="224687"/>
+		<city name="Hialeah Gardens" population="21744"/>
+		<city name="Holiday" population="22403"/>
+		<city name="Hollywood" population="140810"/>
+		<city name="Homestead" population="60523"/>
+		<city name="Immokalee" population="24154"/>
+		<city name="Jacksonville" population="821804"/>
+		<city name="Jacksonville Beach" population="21362"/>
+		<city name="Jupiter" population="55347"/>
+		<city name="Kendale Lakes" population="56148"/>
+		<city name="Kendall" population="75371"/>
+		<city name="Kendall West" population="36154"/>
+		<city name="Keystone" population="24039"/>
+		<city name="Key West" population="24647"/>
+		<city name="Kissimmee" population="59621"/>
+		<city name="Lakeland" population="97365"/>
+		<city name="Lake Magdalene" population="28509"/>
+		<city name="Lakeside" population="30943"/>
+		<city name="Lake Worth" population="34912"/>
+		<city name="Land O' Lakes" population="31996"/>
+		<city name="Largo" population="79346"/>
+		<city name="Lauderdale Lakes" population="32653"/>
+		<city name="Lauderhill" population="66954"/>
+		<city name="Leesburg" population="20365"/>
+		<city name="Lehigh Acres" population="86784"/>
+		<city name="Leisure City" population="22655"/>
+		<city name="Lynn Haven" population="18496"/>
+		<city name="Margate" population="53284"/>
+		<city name="Meadow Woods" population="25558"/>
+		<city name="Melbourne" population="76272"/>
+		<city name="Merritt Island" population="34743"/>
+		<city name="Miami" population="399527"/>
+		<city name="Miami Beach" population="87739"/>
+		<city name="Miami Gardens" population="107167"/>
+		<city name="Miami Lakes" population="29377"/>
+		<city name="Miramar" population="122041"/>
+		<city name="Naples" population="19535"/>
+		<city name="Navarre" population="31378"/>
+		<city name="New Smyrna Beach" population="23414"/>
+		<city name="Northdale" population="22079"/>
+		<city name="North Fort Myers" population="39407"/>
+		<city name="North Lauderdale" population="41055"/>
+		<city name="North Miami" population="59581"/>
+		<city name="North Miami Beach" population="41534"/>
+		<city name="North Port" population="57333"/>
+		<city name="Oakland Park" population="41394"/>
+		<city name="Oakleaf Plantation" population="20315"/>
+		<city name="Oak Ridge" population="22685"/>
+		<city name="Ocala" population="56426"/>
+		<city name="Ocoee" population="35755"/>
+		<city name="Orlando" population="238675"/>
+		<city name="Ormond Beach" population="39498"/>
+		<city name="Oviedo" population="33483"/>
+		<city name="Pace" population="20039"/>
+		<city name="Palm Bay" population="103203"/>
+		<city name="Palm Beach Gardens" population="48625"/>
+		<city name="Palm City" population="23120"/>
+		<city name="Palm Coast" population="75201"/>
+		<city name="Palmetto Bay" population="23411"/>
+		<city name="Palm Harbor" population="57439"/>
+		<city name="Palm River-Clair Mel" population="21024"/>
+		<city name="Palm Springs" population="23149"/>
+		<city name="Palm Valley" population="20019"/>
+		<city name="Panama City" population="34692"/>
+		<city name="Parkland" population="23022"/>
+		<city name="Pembroke Pines" population="154818"/>
+		<city name="Pensacola" population="51976"/>
+		<city name="Pine Hills" population="60076"/>
+		<city name="Pinellas Park" population="49323"/>
+		<city name="Plantation" population="84877"/>
+		<city name="Plant City" population="34706"/>
+		<city name="Poinciana" population="53193"/>
+		<city name="Pompano Beach" population="99844"/>
+		<city name="Port Charlotte" population="54392"/>
+		<city name="Port Orange" population="56614"/>
+		<city name="Port St. Lucie" population="164197"/>
+		<city name="Princeton" population="22038"/>
+		<city name="Richmond West" population="31973"/>
+		<city name="Riverview" population="71050"/>
+		<city name="Riviera Beach" population="32483"/>
+		<city name="Rockledge" population="24930"/>
+		<city name="Royal Palm Beach" population="34190"/>
+		<city name="Sanford" population="53743"/>
+		<city name="Sarasota" population="52067"/>
+		<city name="Sebastian" population="21924"/>
+		<city name="South Bradenton" population="22178"/>
+		<city name="South Miami Heights" population="35696"/>
+		<city name="Spring Hill" population="98621"/>
+		<city name="St. Cloud" population="37643"/>
+		<city name="St. Petersburg" population="245161"/>
+		<city name="Sunny Isles Beach" population="20828"/>
+		<city name="Sunrise" population="84293"/>
+		<city name="Sweetwater" population="19919"/>
+		<city name="Tallahassee" population="181224"/>
+		<city name="Tamarac" population="60283"/>
+		<city name="Tamiami" population="55271"/>
+		<city name="Tampa" population="335842"/>
+		<city name="Tarpon Springs" population="23525"/>
+		<city name="Temple Terrace" population="24501"/>
+		<city name="The Acreage" population="38704"/>
+		<city name="The Crossings" population="22758"/>
+		<city name="The Hammocks" population="51003"/>
+		<city name="The Villages" population="51442"/>
+		<city name="Titusville" population="43625"/>
+		<city name="Town 'n' Country" population="78442"/>
+		<city name="University" population="41163"/>
+		<city name="University" population="31084"/>
+		<city name="University Park" population="26995"/>
+		<city name="Valrico" population="35545"/>
+		<city name="Venice" population="20746"/>
+		<city name="Vero Beach South" population="23092"/>
+		<city name="Wekiva Springs" population="21998"/>
+		<city name="Wellington" population="56712"/>
+		<city name="Wesley Chapel" population="44092"/>
+		<city name="Westchase" population="21747"/>
+		<city name="Westchester" population="29862"/>
+		<city name="West Little River" population="34699"/>
+		<city name="West Melbourne" population="18378"/>
+		<city name="Weston" population="65419"/>
+		<city name="West Palm Beach" population="100523"/>
+		<city name="West Pensacola" population="21339"/>
+		<city name="Winter Garden" population="34761"/>
+		<city name="Winter Haven" population="34937"/>
+		<city name="Winter Park" population="27862"/>
+		<city name="Winter Springs" population="33314"/>
+		<city name="Wright" population="23127"/>
+	</state>
+	<state name="Georgia" population="9687653">
+		<city name="Acworth" population="20453"/>
+		<city name="Albany" population="77434"/>
+		<city name="Alpharetta" population="57384"/>
+		<city name="Americus" population="17099"/>
+		<city name="Athens" population="115486"/>
+		<city name="Atlanta" population="420425"/>
+		<city name="Augusta" population="195837"/>
+		<city name="Belvedere Park" population="15152"/>
+		<city name="Brookhaven" population="49315"/>
+		<city name="Brunswick" population="15291"/>
+		<city name="Buford" population="12532"/>
+		<city name="Calhoun" population="15735"/>
+		<city name="Candler-McAfee" population="23025"/>
+		<city name="Canton" population="23146"/>
+		<city name="Carrollton" population="24384"/>
+		<city name="Cartersville" population="19803"/>
+		<city name="Chamblee" population="26813"/>
+		<city name="College Park" population="14389"/>
+		<city name="Columbus" population="190571"/>
+		<city name="Conyers" population="15194"/>
+		<city name="Dalton" population="33106"/>
+		<city name="Decatur" population="19633"/>
+		<city name="Douglasville" population="30946"/>
+		<city name="Dublin" population="16212"/>
+		<city name="Duluth" population="26604"/>
+		<city name="Dunwoody" population="46282"/>
+		<city name="East Point" population="33722"/>
+		<city name="Evans" population="29011"/>
+		<city name="Fairburn" population="13053"/>
+		<city name="Fayetteville" population="16164"/>
+		<city name="Forest Park" population="18470"/>
+		<city name="Gainesville" population="33951"/>
+		<city name="Griffin" population="23262"/>
+		<city name="Hinesville" population="33434"/>
+		<city name="Johns Creek" population="76639"/>
+		<city name="Kennesaw" population="30592"/>
+		<city name="Kingsland" population="15901"/>
+		<city name="LaGrange" population="29440"/>
+		<city name="Lawrenceville" population="27293"/>
+		<city name="Lithia Springs" population="15491"/>
+		<city name="Mableton" population="37115"/>
+		<city name="Macon" population="155600"/>
+		<city name="Marietta" population="56595"/>
+		<city name="Martinez" population="35795"/>
+		<city name="McDonough" population="22011"/>
+		<city name="Milledgeville" population="18426"/>
+		<city name="Milton" population="32842"/>
+		<city name="Moultrie" population="14268"/>
+		<city name="Newnan" population="32893"/>
+		<city name="Norcross" population="15174"/>
+		<city name="North Decatur" population="16698"/>
+		<city name="North Druid Hills" population="18947"/>
+		<city name="Peachtree City" population="34364"/>
+		<city name="Peachtree Corners" population="38004"/>
+		<city name="Perry" population="13795"/>
+		<city name="Pooler" population="18563"/>
+		<city name="Powder Springs" population="13938"/>
+		<city name="Redan" population="33015"/>
+		<city name="Riverdale" population="15231"/>
+		<city name="Rome" population="36370"/>
+		<city name="Roswell" population="88337"/>
+		<city name="Sandy Springs" population="93817"/>
+		<city name="Savannah" population="137002"/>
+		<city name="Smyrna" population="51202"/>
+		<city name="Snellville" population="18265"/>
+		<city name="St. Marys" population="17080"/>
+		<city name="Statesboro" population="28380"/>
+		<city name="Stockbridge" population="26350"/>
+		<city name="Stonecrest" population="50200"/>
+		<city name="Sugar Hill" population="18541"/>
+		<city name="Suwanee" population="15355"/>
+		<city name="Thomasville" population="18554"/>
+		<city name="Tifton" population="16402"/>
+		<city name="Tucker" population="33353"/>
+		<city name="Union City" population="19439"/>
+		<city name="Valdosta" population="54760"/>
+		<city name="Villa Rica" population="14045"/>
+		<city name="Warner Robins" population="68944"/>
+		<city name="Wilmington Island" population="15138"/>
+		<city name="Winder" population="14408"/>
+		<city name="Woodstock" population="23778"/>
+	</state>
+	<state name="Hawaii" population="1360301">
+		<city name="East Honolulu" population="49914"/>
+		<city name="Ewa Gentry" population="22690"/>
+		<city name="Hilo" population="43263"/>
+		<city name="Honolulu" population="337721"/>
+		<city name="Kahului" population="26337"/>
+		<city name="Kailua" population="38635"/>
+		<city name="Kaneohe" population="34597"/>
+		<city name="Kapolei" population="15186"/>
+		<city name="Kihei" population="20881"/>
+		<city name="Makakilo" population="18248"/>
+		<city name="Mililani Mauka" population="21039"/>
+		<city name="Mililani Town" population="27629"/>
+		<city name="Pearl City" population="47698"/>
+		<city name="Schofield Barracks" population="16370"/>
+		<city name="Wahiawa" population="17821"/>
+		<city name="Wailuku" population="15313"/>
+		<city name="Waipahu" population="38216"/>
+	</state>
+	<state name="Idaho" population="1567582">
+		<city name="Ammon" population="13978"/>
+		<city name="Boise City" population="208344"/>
+		<city name="Caldwell" population="46319"/>
+		<city name="Chubbuck" population="13959"/>
+		<city name="Coeur d'Alene" population="44155"/>
+		<city name="Eagle" population="19944"/>
+		<city name="Hayden" population="13302"/>
+		<city name="Idaho Falls" population="57098"/>
+		<city name="Kuna" population="15312"/>
+		<city name="Lewiston" population="31897"/>
+		<city name="Meridian" population="76258"/>
+		<city name="Moscow" population="23800"/>
+		<city name="Nampa" population="81820"/>
+		<city name="Pocatello" population="54232"/>
+		<city name="Post Falls" population="27735"/>
+		<city name="Rexburg" population="25473"/>
+		<city name="Twin Falls" population="44329"/>
+	</state>
+	<state name="Illinois" population="12830632">
+		<city name="Addison" population="36970"/>
+		<city name="Algonquin" population="30049"/>
+		<city name="Alsip" population="19271"/>
+		<city name="Alton" population="27918"/>
+		<city name="Arlington Heights" population="75188"/>
+		<city name="Aurora" population="197948"/>
+		<city name="Bartlett" population="41159"/>
+		<city name="Batavia" population="26182"/>
+		<city name="Belleville" population="44314"/>
+		<city name="Bellwood" population="19055"/>
+		<city name="Belvidere" population="25646"/>
+		<city name="Bensenville" population="18352"/>
+		<city name="Berwyn" population="56653"/>
+		<city name="Bloomingdale" population="22050"/>
+		<city name="Bloomington" population="76692"/>
+		<city name="Blue Island" population="23701"/>
+		<city name="Bolingbrook" population="73365"/>
+		<city name="Bourbonnais" population="18645"/>
+		<city name="Bradley" population="15870"/>
+		<city name="Bridgeview" population="16444"/>
+		<city name="Brookfield" population="18974"/>
+		<city name="Buffalo Grove" population="41501"/>
+		<city name="Burbank" population="28925"/>
+		<city name="Cahokia" population="15238"/>
+		<city name="Calumet City" population="37116"/>
+		<city name="Carbondale" population="26426"/>
+		<city name="Carol Stream" population="39729"/>
+		<city name="Carpentersville" population="37691"/>
+		<city name="Cary" population="18268"/>
+		<city name="Champaign" population="81269"/>
+		<city name="Charleston" population="21833"/>
+		<city name="Chicago" population="2695620"/>
+		<city name="Chicago Heights" population="30367"/>
+		<city name="Cicero" population="84241"/>
+		<city name="Collinsville" population="25558"/>
+		<city name="Country Club Hills" population="16544"/>
+		<city name="Crest Hill" population="20829"/>
+		<city name="Crystal Lake" population="40945"/>
+		<city name="Danville" population="33019"/>
+		<city name="Darien" population="22086"/>
+		<city name="Decatur" population="76166"/>
+		<city name="Deerfield" population="18227"/>
+		<city name="DeKalb" population="44127"/>
+		<city name="Des Plaines" population="58385"/>
+		<city name="Dixon" population="15747"/>
+		<city name="Dolton" population="23074"/>
+		<city name="Downers Grove" population="48874"/>
+		<city name="East Moline" population="21307"/>
+		<city name="East Peoria" population="23435"/>
+		<city name="East St. Louis" population="26917"/>
+		<city name="Edwardsville" population="24367"/>
+		<city name="Elgin" population="108148"/>
+		<city name="Elk Grove Village" population="33125"/>
+		<city name="Elmhurst" population="44135"/>
+		<city name="Elmwood Park" population="24883"/>
+		<city name="Evanston" population="74485"/>
+		<city name="Evergreen Park" population="19848"/>
+		<city name="Fairview Heights" population="17078"/>
+		<city name="Forest Park" population="14171"/>
+		<city name="Frankfort" population="17788"/>
+		<city name="Franklin Park" population="18311"/>
+		<city name="Freeport" population="25637"/>
+		<city name="Galesburg" population="32189"/>
+		<city name="Geneva" population="21493"/>
+		<city name="Glendale Heights" population="34212"/>
+		<city name="Glen Ellyn" population="27771"/>
+		<city name="Glenview" population="44719"/>
+		<city name="Godfrey" population="18005"/>
+		<city name="Granite City" population="29849"/>
+		<city name="Grayslake" population="21039"/>
+		<city name="Gurnee" population="31226"/>
+		<city name="Hanover Park" population="38022"/>
+		<city name="Harvey" population="25264"/>
+		<city name="Highland Park" population="29745"/>
+		<city name="Hinsdale" population="16822"/>
+		<city name="Hoffman Estates" population="51886"/>
+		<city name="Homer Glen" population="24223"/>
+		<city name="Homewood" population="19307"/>
+		<city name="Huntley" population="24316"/>
+		<city name="Jacksonville" population="19446"/>
+		<city name="Joliet" population="147605"/>
+		<city name="Kankakee" population="27562"/>
+		<city name="La Grange" population="15550"/>
+		<city name="Lake Forest" population="19376"/>
+		<city name="Lake in the Hills" population="29005"/>
+		<city name="Lake Zurich" population="19691"/>
+		<city name="Lansing" population="28351"/>
+		<city name="Lemont" population="16044"/>
+		<city name="Libertyville" population="20413"/>
+		<city name="Lisle" population="22512"/>
+		<city name="Lockport" population="24860"/>
+		<city name="Lombard" population="43347"/>
+		<city name="Loves Park" population="23999"/>
+		<city name="Machesney Park" population="23495"/>
+		<city name="Macomb" population="19294"/>
+		<city name="Marion" population="17216"/>
+		<city name="Matteson" population="19026"/>
+		<city name="Mattoon" population="18555"/>
+		<city name="Maywood" population="24100"/>
+		<city name="McHenry" population="27016"/>
+		<city name="Melrose Park" population="25414"/>
+		<city name="Mokena" population="18812"/>
+		<city name="Moline" population="43484"/>
+		<city name="Montgomery" population="18303"/>
+		<city name="Morton" population="16278"/>
+		<city name="Morton Grove" population="23245"/>
+		<city name="Mount Prospect" population="54177"/>
+		<city name="Mount Vernon" population="15286"/>
+		<city name="Mundelein" population="30977"/>
+		<city name="Naperville" population="142126"/>
+		<city name="New Lenox" population="24325"/>
+		<city name="Niles" population="29806"/>
+		<city name="Normal" population="52544"/>
+		<city name="North Aurora" population="16723"/>
+		<city name="Northbrook" population="33197"/>
+		<city name="North Chicago" population="32577"/>
+		<city name="Oak Forest" population="27954"/>
+		<city name="Oak Lawn" population="56690"/>
+		<city name="Oak Park" population="51878"/>
+		<city name="O'Fallon" population="28674"/>
+		<city name="Orland Park" population="56664"/>
+		<city name="Oswego" population="30431"/>
+		<city name="Ottawa" population="18795"/>
+		<city name="Palatine" population="68551"/>
+		<city name="Palos Hills" population="17480"/>
+		<city name="Park Forest" population="21993"/>
+		<city name="Park Ridge" population="37479"/>
+		<city name="Pekin" population="34097"/>
+		<city name="Peoria" population="115105"/>
+		<city name="Plainfield" population="39854"/>
+		<city name="Prospect Heights" population="16260"/>
+		<city name="Quincy" population="40636"/>
+		<city name="Rockford" population="153301"/>
+		<city name="Rock Island" population="39005"/>
+		<city name="Rolling Meadows" population="24095"/>
+		<city name="Romeoville" population="39621"/>
+		<city name="Roselle" population="22724"/>
+		<city name="Round Lake" population="18335"/>
+		<city name="Round Lake Beach" population="28101"/>
+		<city name="Schaumburg" population="74229"/>
+		<city name="Shorewood" population="15623"/>
+		<city name="Skokie" population="64845"/>
+		<city name="South Elgin" population="21985"/>
+		<city name="South Holland" population="22014"/>
+		<city name="Springfield" population="116463"/>
+		<city name="St. Charles" population="32329"/>
+		<city name="Sterling" population="15438"/>
+		<city name="Streamwood" population="39839"/>
+		<city name="Sycamore" population="17521"/>
+		<city name="Tinley Park" population="56822"/>
+		<city name="Urbana" population="41606"/>
+		<city name="Vernon Hills" population="25027"/>
+		<city name="Villa Park" population="22026"/>
+		<city name="Washington" population="15206"/>
+		<city name="Waukegan" population="89075"/>
+		<city name="Westchester" population="16715"/>
+		<city name="West Chicago" population="27200"/>
+		<city name="Westmont" population="24658"/>
+		<city name="Wheaton" population="52999"/>
+		<city name="Wheeling" population="37642"/>
+		<city name="Wilmette" population="27058"/>
+		<city name="Woodridge" population="32977"/>
+		<city name="Woodstock" population="24755"/>
+		<city name="Yorkville" population="16927"/>
+		<city name="Zion" population="24400"/>
+	</state>
+	<state name="Indiana" population="6483802">
+		<city name="Anderson" population="56166"/>
+		<city name="Avon" population="13741"/>
+		<city name="Bloomington" population="80312"/>
+		<city name="Brownsburg" population="21931"/>
+		<city name="Carmel" population="79191"/>
+		<city name="Clarksville" population="21525"/>
+		<city name="Columbus" population="44085"/>
+		<city name="Crawfordsville" population="15952"/>
+		<city name="Crown Point" population="27841"/>
+		<city name="Dyer" population="16366"/>
+		<city name="East Chicago" population="29698"/>
+		<city name="Elkhart" population="51926"/>
+		<city name="Evansville" population="120077"/>
+		<city name="Fishers" population="77270"/>
+		<city name="Fort Wayne" population="253709"/>
+		<city name="Frankfort" population="16424"/>
+		<city name="Franklin" population="23733"/>
+		<city name="Gary" population="80314"/>
+		<city name="Goshen" population="32110"/>
+		<city name="Granger" population="30465"/>
+		<city name="Greenfield" population="20657"/>
+		<city name="Greenwood" population="51183"/>
+		<city name="Griffith" population="16893"/>
+		<city name="Hammond" population="80823"/>
+		<city name="Highland" population="23740"/>
+		<city name="Hobart" population="29386"/>
+		<city name="Huntington" population="17536"/>
+		<city name="Indianapolis" population="820443"/>
+		<city name="Jasper" population="15062"/>
+		<city name="Jeffersonville" population="45031"/>
+		<city name="Kokomo" population="58061"/>
+		<city name="Lafayette" population="68860"/>
+		<city name="La Porte" population="22043"/>
+		<city name="Lawrence" population="46003"/>
+		<city name="Lebanon" population="15794"/>
+		<city name="Logansport" population="18276"/>
+		<city name="Marion" population="29916"/>
+		<city name="Merrillville" population="34971"/>
+		<city name="Michigan City" population="31484"/>
+		<city name="Mishawaka" population="48294"/>
+		<city name="Muncie" population="70203"/>
+		<city name="Munster" population="23590"/>
+		<city name="New Albany" population="36345"/>
+		<city name="New Castle" population="18099"/>
+		<city name="New Haven" population="14794"/>
+		<city name="Noblesville" population="52194"/>
+		<city name="Plainfield" population="27683"/>
+		<city name="Portage" population="36828"/>
+		<city name="Richmond" population="36781"/>
+		<city name="Schererville" population="29247"/>
+		<city name="Seymour" population="18031"/>
+		<city name="Shelbyville" population="19080"/>
+		<city name="South Bend" population="101247"/>
+		<city name="St. John" population="14898"/>
+		<city name="Terre Haute" population="60785"/>
+		<city name="Valparaiso" population="31737"/>
+		<city name="Vincennes" population="18422"/>
+		<city name="Westfield" population="30112"/>
+		<city name="West Lafayette" population="42008"/>
+		<city name="Zionsville" population="23533"/>
+	</state>
+	<state name="Iowa" population="3046355">
+		<city name="Altoona" population="14566"/>
+		<city name="Ames" population="59012"/>
+		<city name="Ankeny" population="45601"/>
+		<city name="Bettendorf" population="33213"/>
+		<city name="Burlington" population="25625"/>
+		<city name="Cedar Falls" population="39259"/>
+		<city name="Cedar Rapids" population="126441"/>
+		<city name="Clinton" population="26885"/>
+		<city name="Clive" population="15442"/>
+		<city name="Coralville" population="18904"/>
+		<city name="Council Bluffs" population="62229"/>
+		<city name="Davenport" population="99693"/>
+		<city name="Des Moines" population="204186"/>
+		<city name="Dubuque" population="57603"/>
+		<city name="Fort Dodge" population="25206"/>
+		<city name="Indianola" population="14793"/>
+		<city name="Iowa City" population="67930"/>
+		<city name="Johnston" population="17266"/>
+		<city name="Marion" population="35141"/>
+		<city name="Marshalltown" population="27557"/>
+		<city name="Mason City" population="28079"/>
+		<city name="Muscatine" population="23772"/>
+		<city name="Newton" population="15254"/>
+		<city name="North Liberty" population="13395"/>
+		<city name="Ottumwa" population="25023"/>
+		<city name="Sioux City" population="82686"/>
+		<city name="Urbandale" population="39459"/>
+		<city name="Waterloo" population="68408"/>
+		<city name="Waukee" population="13749"/>
+		<city name="West Des Moines" population="56703"/>
+	</state>
+	<state name="Kansas" population="2853118">
+		<city name="Derby" population="22292"/>
+		<city name="Dodge City" population="27336"/>
+		<city name="Emporia" population="24938"/>
+		<city name="Garden City" population="26722"/>
+		<city name="Gardner" population="19135"/>
+		<city name="Great Bend" population="16011"/>
+		<city name="Hays" population="20539"/>
+		<city name="Hutchinson" population="42179"/>
+		<city name="Junction City" population="23364"/>
+		<city name="Kansas City" population="145788"/>
+		<city name="Lawrence" population="87762"/>
+		<city name="Leavenworth" population="35247"/>
+		<city name="Leawood" population="31882"/>
+		<city name="Lenexa" population="48225"/>
+		<city name="Liberal" population="20529"/>
+		<city name="Manhattan" population="52158"/>
+		<city name="Newton" population="19120"/>
+		<city name="Olathe" population="125896"/>
+		<city name="Overland Park" population="173311"/>
+		<city name="Pittsburg" population="20235"/>
+		<city name="Prairie Village" population="21447"/>
+		<city name="Salina" population="47778"/>
+		<city name="Shawnee" population="62205"/>
+		<city name="Topeka" population="127626"/>
+		<city name="Wichita" population="382408"/>
+	</state>
+	<state name="Kentucky" population="4339367">
+		<city name="Ashland" population="21684"/>
+		<city name="Berea" population="13564"/>
+		<city name="Bowling Green" population="58930"/>
+		<city name="Burlington" population="15926"/>
+		<city name="Covington" population="40514"/>
+		<city name="Danville" population="16225"/>
+		<city name="Elizabethtown" population="28581"/>
+		<city name="Erlanger" population="18126"/>
+		<city name="Florence" population="29532"/>
+		<city name="Fort Thomas" population="16178"/>
+		<city name="Frankfort" population="27270"/>
+		<city name="Georgetown" population="29141"/>
+		<city name="Henderson" population="28908"/>
+		<city name="Hopkinsville" population="32040"/>
+		<city name="Independence" population="24754"/>
+		<city name="Jeffersontown" population="27019"/>
+		<city name="Lexington" population="295805"/>
+		<city name="Louisville" population="596271"/>
+		<city name="Madisonville" population="19880"/>
+		<city name="Murray" population="17737"/>
+		<city name="Newport" population="15445"/>
+		<city name="Nicholasville" population="28036"/>
+		<city name="Owensboro" population="57441"/>
+		<city name="Paducah" population="25029"/>
+		<city name="Radcliff" population="22296"/>
+		<city name="Richmond" population="31378"/>
+		<city name="Shelbyville" population="14049"/>
+		<city name="Shively" population="15262"/>
+		<city name="St. Matthews" population="17505"/>
+		<city name="Winchester" population="18359"/>
+	</state>
+	<state name="Louisiana" population="4533372">
+		<city name="Alexandria" population="47963"/>
+		<city name="Baton Rouge" population="229538"/>
+		<city name="Bayou Cane" population="19355"/>
+		<city name="Bossier City" population="61631"/>
+		<city name="Central" population="26867"/>
+		<city name="Chalmette" population="16751"/>
+		<city name="Estelle" population="16377"/>
+		<city name="Gretna" population="17730"/>
+		<city name="Hammond" population="20007"/>
+		<city name="Harvey" population="20348"/>
+		<city name="Houma" population="33685"/>
+		<city name="Kenner" population="66705"/>
+		<city name="Lafayette" population="121589"/>
+		<city name="Lake Charles" population="72033"/>
+		<city name="Laplace" population="29872"/>
+		<city name="Marrero" population="33141"/>
+		<city name="Metairie" population="138481"/>
+		<city name="Monroe" population="48908"/>
+		<city name="Natchitoches" population="18545"/>
+		<city name="New Iberia" population="30617"/>
+		<city name="New Orleans" population="343829"/>
+		<city name="Opelousas" population="16758"/>
+		<city name="Prairieville" population="26895"/>
+		<city name="Ruston" population="21907"/>
+		<city name="Shenandoah" population="18399"/>
+		<city name="Shreveport" population="200410"/>
+		<city name="Slidell" population="27214"/>
+		<city name="Sulphur" population="20464"/>
+		<city name="Terrytown" population="23319"/>
+		<city name="Zachary" population="15233"/>
+	</state>
+	<state name="Maine" population="1328361">
+		<city name="Auburn" population="23052"/>
+		<city name="Augusta" population="19132"/>
+		<city name="Bangor" population="33037"/>
+		<city name="Bath" population="8514"/>
+		<city name="Biddeford" population="21277"/>
+		<city name="Brewer" population="9482"/>
+		<city name="Brunswick" population="15175"/>
+		<city name="Caribou" population="8189"/>
+		<city name="Ellsworth" population="7741"/>
+		<city name="Gorham" population="6882"/>
+		<city name="Lewiston" population="36592"/>
+		<city name="Old Orchard Beach" population="8618"/>
+		<city name="Old Town" population="7846"/>
+		<city name="Orono" population="9474"/>
+		<city name="Portland" population="66194"/>
+		<city name="Presque Isle" population="9692"/>
+		<city name="Rockland" population="7297"/>
+		<city name="Saco" population="18497"/>
+		<city name="Sanford" population="20796"/>
+		<city name="South Portland" population="25002"/>
+		<city name="Waterville" population="15722"/>
+		<city name="Westbrook" population="17494"/>
+		<city name="Winslow" population="7792"/>
+	</state>
+	<state name="Maryland" population="5773552">
+		<city name="Annapolis" population="38293"/>
+		<city name="Arbutus" population="20483"/>
+		<city name="Arnold" population="23106"/>
+		<city name="Aspen Hill" population="48759"/>
+		<city name="Baltimore" population="620951"/>
+		<city name="Bel Air North" population="30568"/>
+		<city name="Bel Air South" population="47709"/>
+		<city name="Bethesda" population="60858"/>
+		<city name="Bowie" population="55339"/>
+		<city name="Carney" population="29941"/>
+		<city name="Catonsville" population="41567"/>
+		<city name="Chillum" population="33513"/>
+		<city name="Clinton" population="35970"/>
+		<city name="Cockeysville" population="20776"/>
+		<city name="College Park" population="30397"/>
+		<city name="Columbia" population="99615"/>
+		<city name="Crofton" population="27348"/>
+		<city name="Cumberland" population="20831"/>
+		<city name="Dundalk" population="63597"/>
+		<city name="Edgewood" population="25562"/>
+		<city name="Eldersburg" population="30531"/>
+		<city name="Ellicott City" population="65834"/>
+		<city name="Essex" population="39262"/>
+		<city name="Fairland" population="23681"/>
+		<city name="Fort Washington" population="23717"/>
+		<city name="Frederick" population="65323"/>
+		<city name="Gaithersburg" population="59905"/>
+		<city name="Germantown" population="86395"/>
+		<city name="Glen Burnie" population="67639"/>
+		<city name="Greenbelt" population="22268"/>
+		<city name="Hagerstown" population="39742"/>
+		<city name="Ilchester" population="23476"/>
+		<city name="Landover" population="23078"/>
+		<city name="Laurel" population="24925"/>
+		<city name="Lochearn" population="25333"/>
+		<city name="Middle River" population="25191"/>
+		<city name="Milford Mill" population="29042"/>
+		<city name="Montgomery Village" population="32032"/>
+		<city name="North Bethesda" population="43828"/>
+		<city name="North Potomac" population="24410"/>
+		<city name="Odenton" population="37132"/>
+		<city name="Olney" population="33844"/>
+		<city name="Owings Mills" population="30622"/>
+		<city name="Parkville" population="30734"/>
+		<city name="Pasadena" population="24287"/>
+		<city name="Perry Hall" population="28474"/>
+		<city name="Pikesville" population="30764"/>
+		<city name="Potomac" population="44965"/>
+		<city name="Randallstown" population="32430"/>
+		<city name="Reisterstown" population="25968"/>
+		<city name="Rockville" population="61250"/>
+		<city name="Salisbury" population="30229"/>
+		<city name="Scaggsville" population="24333"/>
+		<city name="Severn" population="44231"/>
+		<city name="Severna Park" population="37634"/>
+		<city name="Silver Spring" population="71452"/>
+		<city name="South Laurel" population="26112"/>
+		<city name="Suitland" population="25825"/>
+		<city name="Towson" population="55197"/>
+		<city name="Waldorf" population="67752"/>
+		<city name="Wheaton" population="48284"/>
+		<city name="Woodlawn" population="37879"/>
+	</state>
+	<state name="Massachusetts" population="6547629">
+		<city name="Abington" population="16026"/>
+		<city name="Agawam Town" population="28438"/>
+		<city name="Amesbury Town" population="16283"/>
+		<city name="Amherst Center" population="19065"/>
+		<city name="Arlington" population="42844"/>
+		<city name="Attleboro" population="43598"/>
+		<city name="Barnstable Town" population="45189"/>
+		<city name="Belmont" population="24729"/>
+		<city name="Beverly" population="39502"/>
+		<city name="Boston" population="617725"/>
+		<city name="Braintree Town" population="35726"/>
+		<city name="Brockton" population="93763"/>
+		<city name="Brookline" population="58674"/>
+		<city name="Burlington" population="24498"/>
+		<city name="Cambridge" population="105201"/>
+		<city name="Chelsea" population="35177"/>
+		<city name="Chicopee" population="55298"/>
+		<city name="Danvers" population="26493"/>
+		<city name="Dedham" population="24724"/>
+		<city name="Easthampton Town" population="16053"/>
+		<city name="Everett" population="41664"/>
+		<city name="Fall River" population="88857"/>
+		<city name="Fitchburg" population="40318"/>
+		<city name="Framingham" population="68326"/>
+		<city name="Franklin Town" population="31633"/>
+		<city name="Gardner" population="20227"/>
+		<city name="Gloucester" population="28789"/>
+		<city name="Greenfield Town" population="17456"/>
+		<city name="Haverhill" population="60879"/>
+		<city name="Holyoke" population="39880"/>
+		<city name="Hudson" population="14907"/>
+		<city name="Lawrence" population="76381"/>
+		<city name="Leominster" population="40759"/>
+		<city name="Lexington" population="31394"/>
+		<city name="Longmeadow" population="15784"/>
+		<city name="Lowell" population="106519"/>
+		<city name="Lynn" population="90329"/>
+		<city name="Malden" population="59460"/>
+		<city name="Marblehead" population="19808"/>
+		<city name="Marlborough" population="38499"/>
+		<city name="Medford" population="56212"/>
+		<city name="Melrose" population="26993"/>
+		<city name="Methuen Town" population="47252"/>
+		<city name="Milford" population="25055"/>
+		<city name="Milton" population="27006"/>
+		<city name="Needham" population="28961"/>
+		<city name="New Bedford" population="95066"/>
+		<city name="Newburyport" population="17416"/>
+		<city name="Newton" population="85079"/>
+		<city name="Northampton" population="28547"/>
+		<city name="Norwood" population="28609"/>
+		<city name="Peabody" population="51251"/>
+		<city name="Pittsfield" population="44738"/>
+		<city name="Quincy" population="92266"/>
+		<city name="Randolph" population="32100"/>
+		<city name="Reading" population="24733"/>
+		<city name="Revere" population="51737"/>
+		<city name="Salem" population="41340"/>
+		<city name="Saugus" population="26628"/>
+		<city name="Somerset" population="18165"/>
+		<city name="Somerville" population="75677"/>
+		<city name="Southbridge Town" population="16719"/>
+		<city name="Springfield" population="153195"/>
+		<city name="Stoneham" population="21275"/>
+		<city name="Swampscott" population="13787"/>
+		<city name="Taunton" population="55874"/>
+		<city name="Wakefield" population="25095"/>
+		<city name="Waltham" population="60628"/>
+		<city name="Watertown Town" population="31914"/>
+		<city name="Wellesley" population="27910"/>
+		<city name="Westfield" population="41094"/>
+		<city name="West Springfield Town" population="28391"/>
+		<city name="Weymouth Town" population="53762"/>
+		<city name="Wilmington" population="22325"/>
+		<city name="Winchester" population="21374"/>
+		<city name="Winthrop Town" population="17497"/>
+		<city name="Woburn" population="38134"/>
+		<city name="Worcester" population="180983"/>
+	</state>
+	<state name="Michigan" population="9883640">
+		<city name="Adrian" population="21192"/>
+		<city name="Allendale" population="17579"/>
+		<city name="Allen Park" population="28198"/>
+		<city name="Ann Arbor" population="113939"/>
+		<city name="Auburn Hills" population="21408"/>
+		<city name="Battle Creek" population="52392"/>
+		<city name="Bay City" population="34932"/>
+		<city name="Berkley" population="14970"/>
+		<city name="Birmingham" population="20103"/>
+		<city name="Bloomfield Township" population="40953"/>
+		<city name="Burton" population="29999"/>
+		<city name="Canton" population="90173"/>
+		<city name="Clinton" population="96804"/>
+		<city name="Cutlerville" population="14370"/>
+		<city name="Dearborn" population="98148"/>
+		<city name="Dearborn Heights" population="57774"/>
+		<city name="Detroit" population="713854"/>
+		<city name="East Lansing" population="48586"/>
+		<city name="Eastpointe" population="32405"/>
+		<city name="Farmington Hills" population="79716"/>
+		<city name="Ferndale" population="19891"/>
+		<city name="Flint" population="102260"/>
+		<city name="Forest Hills" population="25867"/>
+		<city name="Fraser" population="14480"/>
+		<city name="Garden City" population="27646"/>
+		<city name="Grand Rapids" population="188040"/>
+		<city name="Grandville" population="15372"/>
+		<city name="Grosse Pointe Woods" population="16050"/>
+		<city name="Hamtramck" population="22417"/>
+		<city name="Harrison" population="24591"/>
+		<city name="Haslett" population="19220"/>
+		<city name="Hazel Park" population="16422"/>
+		<city name="Highland Park" population="11776"/>
+		<city name="Holland" population="33095"/>
+		<city name="Holt" population="23973"/>
+		<city name="Inkster" population="25366"/>
+		<city name="Jackson" population="33479"/>
+		<city name="Jenison" population="16538"/>
+		<city name="Kalamazoo" population="74271"/>
+		<city name="Kentwood" population="48709"/>
+		<city name="Lansing" population="114246"/>
+		<city name="Lincoln Park" population="38100"/>
+		<city name="Livonia" population="96942"/>
+		<city name="Madison Heights" population="29694"/>
+		<city name="Marquette" population="21370"/>
+		<city name="Midland" population="41875"/>
+		<city name="Monroe" population="20757"/>
+		<city name="Mount Clemens" population="16309"/>
+		<city name="Mount Pleasant" population="26016"/>
+		<city name="Muskegon" population="38396"/>
+		<city name="Northview" population="14541"/>
+		<city name="Norton Shores" population="23997"/>
+		<city name="Novi" population="55232"/>
+		<city name="Oak Park" population="29408"/>
+		<city name="Okemos" population="21369"/>
+		<city name="Owosso" population="15158"/>
+		<city name="Plymouth Township" population="27524"/>
+		<city name="Pontiac" population="59633"/>
+		<city name="Portage" population="46307"/>
+		<city name="Port Huron" population="30178"/>
+		<city name="Redford" population="48362"/>
+		<city name="Rochester Hills" population="70996"/>
+		<city name="Romulus" population="23989"/>
+		<city name="Roseville" population="47336"/>
+		<city name="Royal Oak" population="57231"/>
+		<city name="Saginaw" population="51496"/>
+		<city name="Shelby" population="73832"/>
+		<city name="Southfield" population="71724"/>
+		<city name="Southgate" population="30047"/>
+		<city name="St. Clair Shores" population="59755"/>
+		<city name="Sterling Heights" population="129675"/>
+		<city name="Taylor" population="63131"/>
+		<city name="Traverse City" population="14738"/>
+		<city name="Trenton" population="18853"/>
+		<city name="Troy" population="80976"/>
+		<city name="Walker" population="23541"/>
+		<city name="Warren" population="134055"/>
+		<city name="Waterford" population="71687"/>
+		<city name="Waverly" population="23925"/>
+		<city name="Wayne" population="17593"/>
+		<city name="West Bloomfield Township" population="64681"/>
+		<city name="Westland" population="84143"/>
+		<city name="Wyandotte" population="25883"/>
+		<city name="Wyoming" population="72124"/>
+		<city name="Ypsilanti" population="19579"/>
+	</state>
+	<state name="Minnesota" population="5303925">
+		<city name="Albert Lea" population="18074"/>
+		<city name="Andover" population="30590"/>
+		<city name="Anoka" population="17152"/>
+		<city name="Apple Valley" population="49102"/>
+		<city name="Austin" population="24895"/>
+		<city name="Bemidji" population="14240"/>
+		<city name="Blaine" population="57179"/>
+		<city name="Bloomington" population="82893"/>
+		<city name="Brooklyn Center" population="30135"/>
+		<city name="Brooklyn Park" population="75776"/>
+		<city name="Buffalo" population="15466"/>
+		<city name="Burnsville" population="60276"/>
+		<city name="Champlin" population="23093"/>
+		<city name="Chanhassen" population="22929"/>
+		<city name="Chaska" population="23860"/>
+		<city name="Columbia Heights" population="19487"/>
+		<city name="Coon Rapids" population="61480"/>
+		<city name="Cottage Grove" population="34594"/>
+		<city name="Crystal" population="22152"/>
+		<city name="Duluth" population="86268"/>
+		<city name="Eagan" population="64150"/>
+		<city name="Eden Prairie" population="60797"/>
+		<city name="Edina" population="47980"/>
+		<city name="Elk River" population="22960"/>
+		<city name="Faribault" population="23352"/>
+		<city name="Farmington" population="21084"/>
+		<city name="Forest Lake" population="18377"/>
+		<city name="Fridley" population="27215"/>
+		<city name="Golden Valley" population="20361"/>
+		<city name="Ham Lake" population="15296"/>
+		<city name="Hastings" population="22174"/>
+		<city name="Hibbing" population="16361"/>
+		<city name="Hopkins" population="17583"/>
+		<city name="Hugo" population="13336"/>
+		<city name="Inver Grove Heights" population="33994"/>
+		<city name="Lakeville" population="55999"/>
+		<city name="Lino Lakes" population="20219"/>
+		<city name="Mankato" population="39857"/>
+		<city name="Maple Grove" population="61549"/>
+		<city name="Maplewood" population="38017"/>
+		<city name="Minneapolis" population="382603"/>
+		<city name="Minnetonka" population="49735"/>
+		<city name="Moorhead" population="39436"/>
+		<city name="New Brighton" population="21456"/>
+		<city name="New Hope" population="20321"/>
+		<city name="Northfield" population="20016"/>
+		<city name="Oakdale" population="27364"/>
+		<city name="Otsego" population="13571"/>
+		<city name="Owatonna" population="25610"/>
+		<city name="Plymouth" population="70585"/>
+		<city name="Prior Lake" population="22929"/>
+		<city name="Ramsey" population="23683"/>
+		<city name="Red Wing" population="16455"/>
+		<city name="Richfield" population="35094"/>
+		<city name="Rochester" population="106801"/>
+		<city name="Rosemount" population="21874"/>
+		<city name="Roseville" population="33661"/>
+		<city name="Sartell" population="15938"/>
+		<city name="Savage" population="26912"/>
+		<city name="Shakopee" population="37069"/>
+		<city name="Shoreview" population="25043"/>
+		<city name="South St. Paul" population="20105"/>
+		<city name="St. Cloud" population="65928"/>
+		<city name="St. Louis Park" population="45206"/>
+		<city name="St. Michael" population="16395"/>
+		<city name="St. Paul" population="285063"/>
+		<city name="Stillwater" population="18641"/>
+		<city name="West St. Paul" population="19541"/>
+		<city name="White Bear Lake" population="23852"/>
+		<city name="Willmar" population="19578"/>
+		<city name="Winona" population="27586"/>
+		<city name="Woodbury" population="61965"/>
+	</state>
+	<state name="Mississippi" population="2967297">
+		<city name="Biloxi" population="44249"/>
+		<city name="Brandon" population="22066"/>
+		<city name="Clarksdale" population="17960"/>
+		<city name="Clinton" population="25215"/>
+		<city name="Columbus" population="25182"/>
+		<city name="Corinth" population="14573"/>
+		<city name="Gautier" population="18572"/>
+		<city name="Greenville" population="34410"/>
+		<city name="Greenwood" population="16152"/>
+		<city name="Gulfport" population="67786"/>
+		<city name="Hattiesburg" population="45751"/>
+		<city name="Hernando" population="14060"/>
+		<city name="Horn Lake" population="26068"/>
+		<city name="Jackson" population="173593"/>
+		<city name="Laurel" population="18543"/>
+		<city name="Long Beach" population="14818"/>
+		<city name="Madison" population="24149"/>
+		<city name="Meridian" population="41149"/>
+		<city name="Natchez" population="15787"/>
+		<city name="Ocean Springs" population="17442"/>
+		<city name="Olive Branch" population="33486"/>
+		<city name="Oxford" population="19023"/>
+		<city name="Pascagoula" population="22392"/>
+		<city name="Pearl" population="25700"/>
+		<city name="Ridgeland" population="24306"/>
+		<city name="Southaven" population="48976"/>
+		<city name="Starkville" population="23909"/>
+		<city name="Tupelo" population="37680"/>
+		<city name="Vicksburg" population="23856"/>
+	</state>
+	<state name="Missouri" population="5988927">
+		<city name="Affton" population="20307"/>
+		<city name="Arnold" population="20814"/>
+		<city name="Ballwin" population="30389"/>
+		<city name="Belton" population="23116"/>
+		<city name="Blue Springs" population="52618"/>
+		<city name="Bridgeton" population="11550"/>
+		<city name="Cape Girardeau" population="38000"/>
+		<city name="Chesterfield" population="47484"/>
+		<city name="Clayton" population="15943"/>
+		<city name="Columbia" population="109036"/>
+		<city name="Concord" population="16421"/>
+		<city name="Creve Coeur" population="17835"/>
+		<city name="Farmington" population="16294"/>
+		<city name="Ferguson" population="21200"/>
+		<city name="Florissant" population="52300"/>
+		<city name="Fort Leonard Wood" population="15061"/>
+		<city name="Gladstone" population="25442"/>
+		<city name="Grandview" population="24464"/>
+		<city name="Hannibal" population="17916"/>
+		<city name="Hazelwood" population="25700"/>
+		<city name="Independence" population="116792"/>
+		<city name="Jackson" population="13748"/>
+		<city name="Jefferson City" population="43088"/>
+		<city name="Joplin" population="50788"/>
+		<city name="Kansas City" population="459946"/>
+		<city name="Kirksville" population="17505"/>
+		<city name="Kirkwood" population="27540"/>
+		<city name="Lake St. Louis" population="14569"/>
+		<city name="Lee's Summit" population="91363"/>
+		<city name="Lemay" population="16645"/>
+		<city name="Liberty" population="29190"/>
+		<city name="Manchester" population="18095"/>
+		<city name="Maryland Heights" population="27473"/>
+		<city name="Mehlville" population="28380"/>
+		<city name="Nixa" population="19043"/>
+		<city name="Oakville" population="36143"/>
+		<city name="O'Fallon" population="79486"/>
+		<city name="Old Jamestown" population="19184"/>
+		<city name="Overland" population="16062"/>
+		<city name="Ozark" population="17828"/>
+		<city name="Poplar Bluff" population="17050"/>
+		<city name="Raymore" population="19213"/>
+		<city name="Raytown" population="29467"/>
+		<city name="Republic" population="14924"/>
+		<city name="Rolla" population="19573"/>
+		<city name="Sedalia" population="21385"/>
+		<city name="Sikeston" population="16322"/>
+		<city name="Spanish Lake" population="19650"/>
+		<city name="Springfield" population="159451"/>
+		<city name="St. Charles" population="66127"/>
+		<city name="St. Joseph" population="76809"/>
+		<city name="St. Louis" population="319371"/>
+		<city name="St. Peters" population="52577"/>
+		<city name="University City" population="35363"/>
+		<city name="Warrensburg" population="18848"/>
+		<city name="Webster Groves" population="22993"/>
+		<city name="Wentzville" population="29358"/>
+		<city name="Wildwood" population="35355"/>
+	</state>
+	<state name="Montana" population="989415">
+		<city name="Anaconda" population="9292"/>
+		<city name="Belgrade" population="7462"/>
+		<city name="Billings" population="104302"/>
+		<city name="Bozeman" population="37286"/>
+		<city name="Butte-Silver Bow" population="33505"/>
+		<city name="Evergreen" population="7616"/>
+		<city name="Great Falls" population="59100"/>
+		<city name="Havre" population="9497"/>
+		<city name="Helena" population="28241"/>
+		<city name="Helena Valley Southeast" population="8227"/>
+		<city name="Helena Valley West Central" population="7883"/>
+		<city name="Kalispell" population="20052"/>
+		<city name="Livingston" population="7018"/>
+		<city name="Miles City" population="8398"/>
+		<city name="Missoula" population="66878"/>
+		<city name="Whitefish" population="6395"/>
+	</state>
+	<state name="Nebraska" population="1826341">
+		<city name="Alliance" population="8491"/>
+		<city name="Beatrice" population="12684"/>
+		<city name="Bellevue" population="51531"/>
+		<city name="Blair" population="7990"/>
+		<city name="Chalco" population="10994"/>
+		<city name="Columbus" population="22186"/>
+		<city name="Fremont" population="26415"/>
+		<city name="Gering" population="8500"/>
+		<city name="Grand Island" population="48652"/>
+		<city name="Hastings" population="25229"/>
+		<city name="Kearney" population="30942"/>
+		<city name="La Vista" population="16640"/>
+		<city name="Lexington" population="10230"/>
+		<city name="Lincoln" population="258491"/>
+		<city name="McCook" population="7698"/>
+		<city name="Norfolk" population="24210"/>
+		<city name="North Platte" population="24736"/>
+		<city name="Omaha" population="449381"/>
+		<city name="Papillion" population="19160"/>
+		<city name="Scottsbluff" population="15039"/>
+		<city name="South Sioux City" population="13365"/>
+		<city name="York" population="7766"/>
+	</state>
+	<state name="Nevada" population="2700551">
+		<city name="Boulder City" population="15027"/>
+		<city name="Carson City" population="55274"/>
+		<city name="Elko" population="18348"/>
+		<city name="Enterprise" population="108481"/>
+		<city name="Fernley" population="19368"/>
+		<city name="Henderson" population="257073"/>
+		<city name="Las Vegas" population="584575"/>
+		<city name="Mesquite" population="15277"/>
+		<city name="North Las Vegas" population="216686"/>
+		<city name="Pahrump" population="36441"/>
+		<city name="Paradise" population="223167"/>
+		<city name="Reno" population="225408"/>
+		<city name="Spanish Springs" population="15064"/>
+		<city name="Sparks" population="91078"/>
+		<city name="Spring Valley" population="178395"/>
+		<city name="Summerlin South" population="24085"/>
+		<city name="Sunrise Manor" population="189372"/>
+		<city name="Sun Valley" population="19299"/>
+		<city name="Whitney" population="38585"/>
+		<city name="Winchester" population="27978"/>
+	</state>
+	<state name="New Hampshire" population="1316470">
+		<city name="Berlin" population="10051"/>
+		<city name="Claremont" population="13355"/>
+		<city name="Concord" population="42694"/>
+		<city name="Derry" population="22015"/>
+		<city name="Dover" population="29988"/>
+		<city name="Durham" population="10345"/>
+		<city name="Exeter" population="9242"/>
+		<city name="Hampton" population="9656"/>
+		<city name="Keene" population="23563"/>
+		<city name="Laconia" population="15966"/>
+		<city name="Lebanon" population="13147"/>
+		<city name="Londonderry" population="11037"/>
+		<city name="Manchester" population="109571"/>
+		<city name="Nashua" population="86492"/>
+		<city name="Portsmouth" population="21233"/>
+		<city name="Rochester" population="29778"/>
+		<city name="Somersworth" population="11767"/>
+	</state>
+	<state name="New Jersey" population="8791894">
+		<city name="Atlantic City" population="39558"/>
+		<city name="Bayonne" population="63017"/>
+		<city name="Bergenfield" population="26837"/>
+		<city name="Brick Township" population="75054"/>
+		<city name="Bridgeton" population="25415"/>
+		<city name="Camden" population="77057"/>
+		<city name="Carteret" population="22845"/>
+		<city name="Cliffside Park" population="23612"/>
+		<city name="Clifton" population="84099"/>
+		<city name="Cranford" population="22625"/>
+		<city name="East Brunswick" population="47466"/>
+		<city name="East Orange" population="64177"/>
+		<city name="Edison" population="100247"/>
+		<city name="Elizabeth" population="124969"/>
+		<city name="Elmwood Park" population="19453"/>
+		<city name="Englewood" population="27119"/>
+		<city name="Ewing" population="35751"/>
+		<city name="Fair Lawn" population="32413"/>
+		<city name="Fort Lee" population="35381"/>
+		<city name="Garfield" population="30489"/>
+		<city name="Glassboro" population="18568"/>
+		<city name="Hackensack" population="43008"/>
+		<city name="Hillside" population="21406"/>
+		<city name="Hoboken" population="50006"/>
+		<city name="Irvington" population="53932"/>
+		<city name="Jersey City" population="247636"/>
+		<city name="Kearny" population="40715"/>
+		<city name="Lakewood" population="53805"/>
+		<city name="Linden" population="40515"/>
+		<city name="Livingston" population="29381"/>
+		<city name="Lodi" population="24137"/>
+		<city name="Long Branch" population="30717"/>
+		<city name="Lyndhurst" population="20554"/>
+		<city name="Maplewood" population="23877"/>
+		<city name="Millville" population="28417"/>
+		<city name="Newark" population="277105"/>
+		<city name="New Brunswick" population="54500"/>
+		<city name="North Bergen Township" population="60751"/>
+		<city name="North Brunswick Township" population="41426"/>
+		<city name="North Plainfield" population="21928"/>
+		<city name="Nutley" population="28365"/>
+		<city name="Old Bridge" population="23753"/>
+		<city name="Orange" population="30310"/>
+		<city name="Palisades Park" population="19610"/>
+		<city name="Paramus" population="26342"/>
+		<city name="Parsippany-Troy Hills Township" population="53183"/>
+		<city name="Passaic" population="69814"/>
+		<city name="Paterson" population="146203"/>
+		<city name="Pennsauken" population="36014"/>
+		<city name="Perth Amboy" population="50814"/>
+		<city name="Plainfield" population="49702"/>
+		<city name="Pleasantville" population="20252"/>
+		<city name="Princeton" population="28595"/>
+		<city name="Rahway" population="27337"/>
+		<city name="Ridgewood" population="24952"/>
+		<city name="Roselle" population="21085"/>
+		<city name="Sayreville" population="42712"/>
+		<city name="Scotch Plains" population="23595"/>
+		<city name="Secaucus" population="16260"/>
+		<city name="Somerset" population="22083"/>
+		<city name="South Plainfield" population="23403"/>
+		<city name="Summit" population="21462"/>
+		<city name="Teaneck" population="39770"/>
+		<city name="Toms River" population="88791"/>
+		<city name="Trenton" population="84937"/>
+		<city name="Union" population="56635"/>
+		<city name="Union City" population="66439"/>
+		<city name="Vineland" population="60738"/>
+		<city name="Wayne" population="54713"/>
+		<city name="Westfield" population="30316"/>
+		<city name="West Milford" population="26249"/>
+		<city name="West New York" population="49706"/>
+		<city name="West Orange" population="46184"/>
+		<city name="Willingboro Township" population="31615"/>
+	</state>
+	<state name="New Mexico" population="2059179">
+		<city name="Alamogordo" population="30404"/>
+		<city name="Albuquerque" population="546246"/>
+		<city name="Artesia" population="11317"/>
+		<city name="Carlsbad" population="26215"/>
+		<city name="Clovis" population="37799"/>
+		<city name="Deming" population="14836"/>
+		<city name="Española" population="10238"/>
+		<city name="Farmington" population="45971"/>
+		<city name="Gallup" population="21783"/>
+		<city name="Hobbs" population="34201"/>
+		<city name="Las Cruces" population="97769"/>
+		<city name="Las Vegas" population="14049"/>
+		<city name="Los Lunas" population="14961"/>
+		<city name="Lovington" population="11032"/>
+		<city name="Portales" population="12338"/>
+		<city name="Rio Rancho" population="87357"/>
+		<city name="Roswell" population="48406"/>
+		<city name="Santa Fe" population="80880"/>
+		<city name="Silver City" population="10302"/>
+		<city name="South Valley" population="40976"/>
+		<city name="Sunland Park" population="14240"/>
+	</state>
+	<state name="New York" population="19378102">
+		<city name="Albany" population="97840"/>
+		<city name="Auburn" population="27688"/>
+		<city name="Baldwin" population="24033"/>
+		<city name="Bay Shore" population="26337"/>
+		<city name="Binghamton" population="47410"/>
+		<city name="Brentwood" population="60664"/>
+		<city name="Brighton" population="36596"/>
+		<city name="Buffalo" population="261433"/>
+		<city name="Centereach" population="31578"/>
+		<city name="Central Islip" population="34450"/>
+		<city name="Cheektowaga" population="75178"/>
+		<city name="Commack" population="36124"/>
+		<city name="Copiague" population="22993"/>
+		<city name="Coram" population="39113"/>
+		<city name="Deer Park" population="27745"/>
+		<city name="Dix Hills" population="26892"/>
+		<city name="Eastchester" population="19554"/>
+		<city name="East Meadow" population="38132"/>
+		<city name="East Northport" population="20217"/>
+		<city name="East Patchogue" population="22469"/>
+		<city name="Elmira" population="29237"/>
+		<city name="Elmont" population="33198"/>
+		<city name="Franklin Square" population="29320"/>
+		<city name="Freeport" population="42839"/>
+		<city name="Garden City" population="22315"/>
+		<city name="Glen Cove" population="26952"/>
+		<city name="Harrison" population="27486"/>
+		<city name="Hauppauge" population="20882"/>
+		<city name="Hempstead" population="54001"/>
+		<city name="Hicksville" population="41547"/>
+		<city name="Holbrook" population="27195"/>
+		<city name="Holtsville" population="19714"/>
+		<city name="Huntington Station" population="33029"/>
+		<city name="Irondequoit" population="51570"/>
+		<city name="Ithaca" population="30020"/>
+		<city name="Jamestown" population="31160"/>
+		<city name="Kingston" population="23863"/>
+		<city name="Kiryas Joel" population="20039"/>
+		<city name="Lake Ronkonkoma" population="20155"/>
+		<city name="Levittown" population="51881"/>
+		<city name="Lindenhurst" population="27258"/>
+		<city name="Lockport" population="21187"/>
+		<city name="Long Beach" population="33327"/>
+		<city name="Massapequa" population="21685"/>
+		<city name="Medford" population="24142"/>
+		<city name="Merrick" population="22097"/>
+		<city name="Middletown" population="27905"/>
+		<city name="Monsey" population="18412"/>
+		<city name="Mount Vernon" population="67306"/>
+		<city name="Newburgh" population="28905"/>
+		<city name="New City" population="33559"/>
+		<city name="New Rochelle" population="77096"/>
+		<city name="New York" population="8174959"/>
+		<city name="Niagara Falls" population="50173"/>
+		<city name="North Bellmore" population="19941"/>
+		<city name="North Tonawanda" population="31574"/>
+		<city name="Oceanside" population="32109"/>
+		<city name="Ossining" population="25055"/>
+		<city name="Peekskill" population="23589"/>
+		<city name="Plainview" population="26217"/>
+		<city name="Plattsburgh" population="20005"/>
+		<city name="Port Chester" population="28954"/>
+		<city name="Poughkeepsie" population="30831"/>
+		<city name="Rochester" population="210693"/>
+		<city name="Rockville Centre" population="24042"/>
+		<city name="Rome" population="33718"/>
+		<city name="Rotterdam" population="20652"/>
+		<city name="Saratoga Springs" population="26565"/>
+		<city name="Schenectady" population="66156"/>
+		<city name="Selden" population="19851"/>
+		<city name="Shirley" population="27854"/>
+		<city name="Smithtown" population="26470"/>
+		<city name="Spring Valley" population="31334"/>
+		<city name="Syracuse" population="145208"/>
+		<city name="Tonawanda" population="58144"/>
+		<city name="Troy" population="50161"/>
+		<city name="Uniondale" population="24759"/>
+		<city name="Utica" population="62238"/>
+		<city name="Valley Stream" population="37363"/>
+		<city name="Watertown" population="26816"/>
+		<city name="West Babylon" population="43213"/>
+		<city name="West Islip" population="28335"/>
+		<city name="West Seneca" population="44662"/>
+		<city name="White Plains" population="56866"/>
+		<city name="Yonkers" population="195993"/>
+	</state>
+	<state name="North Carolina" population="9535483">
+		<city name="Albemarle" population="15890"/>
+		<city name="Apex" population="37540"/>
+		<city name="Asheboro" population="25395"/>
+		<city name="Asheville" population="83365"/>
+		<city name="Boone" population="17134"/>
+		<city name="Burlington" population="50877"/>
+		<city name="Carrboro" population="19564"/>
+		<city name="Cary" population="135698"/>
+		<city name="Chapel Hill" population="57221"/>
+		<city name="Charlotte" population="735688"/>
+		<city name="Clayton" population="16197"/>
+		<city name="Clemmons" population="18623"/>
+		<city name="Concord" population="79288"/>
+		<city name="Cornelius" population="24869"/>
+		<city name="Durham" population="228354"/>
+		<city name="Eden" population="15685"/>
+		<city name="Elizabeth City" population="18643"/>
+		<city name="Fayetteville" population="200571"/>
+		<city name="Fuquay-Varina" population="17996"/>
+		<city name="Garner" population="25774"/>
+		<city name="Gastonia" population="71736"/>
+		<city name="Goldsboro" population="35465"/>
+		<city name="Graham" population="14307"/>
+		<city name="Greensboro" population="268926"/>
+		<city name="Greenville" population="84567"/>
+		<city name="Harrisburg" population="13338"/>
+		<city name="Havelock" population="20704"/>
+		<city name="Henderson" population="15406"/>
+		<city name="Hickory" population="39987"/>
+		<city name="High Point" population="104497"/>
+		<city name="Holly Springs" population="24708"/>
+		<city name="Hope Mills" population="15460"/>
+		<city name="Huntersville" population="46763"/>
+		<city name="Indian Trail" population="33583"/>
+		<city name="Jacksonville" population="70094"/>
+		<city name="Kannapolis" population="42607"/>
+		<city name="Kernersville" population="23095"/>
+		<city name="Kinston" population="21748"/>
+		<city name="Knightdale" population="11403"/>
+		<city name="Laurinburg" population="15948"/>
+		<city name="Leland" population="13747"/>
+		<city name="Lenoir" population="18230"/>
+		<city name="Lexington" population="18931"/>
+		<city name="Lumberton" population="21548"/>
+		<city name="Matthews" population="27183"/>
+		<city name="Mebane" population="11347"/>
+		<city name="Mint Hill" population="22655"/>
+		<city name="Monroe" population="32783"/>
+		<city name="Mooresville" population="34303"/>
+		<city name="Morganton" population="16869"/>
+		<city name="Morrisville" population="18585"/>
+		<city name="Mount Holly" population="13653"/>
+		<city name="New Bern" population="29343"/>
+		<city name="Pinehurst" population="14738"/>
+		<city name="Raleigh" population="404056"/>
+		<city name="Roanoke Rapids" population="15729"/>
+		<city name="Rocky Mount" population="57712"/>
+		<city name="Salisbury" population="33529"/>
+		<city name="Sanford" population="28134"/>
+		<city name="Shelby" population="20345"/>
+		<city name="Stallings" population="13763"/>
+		<city name="Statesville" population="24492"/>
+		<city name="Thomasville" population="26776"/>
+		<city name="Wake Forest" population="30096"/>
+		<city name="Waxhaw" population="9825"/>
+		<city name="Wilmington" population="106419"/>
+		<city name="Wilson" population="49159"/>
+		<city name="Winston-Salem" population="229646"/>
+	</state>
+	<state name="North Dakota" population="672591">
+		<city name="Bismarck" population="61303"/>
+		<city name="Devils Lake" population="7146"/>
+		<city name="Dickinson" population="17877"/>
+		<city name="Fargo" population="105605"/>
+		<city name="Grand Forks" population="52918"/>
+		<city name="Jamestown" population="15421"/>
+		<city name="Mandan" population="18870"/>
+		<city name="Minot" population="41091"/>
+		<city name="Minot Air Force Base" population="5521"/>
+		<city name="Valley City" population="6619"/>
+		<city name="Wahpeton" population="7764"/>
+		<city name="Watford City" population="1790"/>
+		<city name="West Fargo" population="25836"/>
+		<city name="Williston" population="15940"/>
+	</state>
+	<state name="Ohio" population="11536504">
+		<city name="Akron" population="199079"/>
+		<city name="Alliance" population="22325"/>
+		<city name="Ashland" population="20366"/>
+		<city name="Ashtabula" population="19125"/>
+		<city name="Athens" population="23838"/>
+		<city name="Aurora" population="15546"/>
+		<city name="Austintown" population="29677"/>
+		<city name="Avon" population="21191"/>
+		<city name="Avon Lake" population="22581"/>
+		<city name="Barberton" population="26570"/>
+		<city name="Bay Village" population="15651"/>
+		<city name="Beavercreek" population="45174"/>
+		<city name="Berea" population="19093"/>
+		<city name="Boardman" population="35376"/>
+		<city name="Bowling Green" population="30058"/>
+		<city name="Bridgetown" population="14407"/>
+		<city name="Broadview Heights" population="19397"/>
+		<city name="Brook Park" population="19212"/>
+		<city name="Brunswick" population="34278"/>
+		<city name="Canton" population="73051"/>
+		<city name="Centerville" population="23996"/>
+		<city name="Chillicothe" population="21923"/>
+		<city name="Cincinnati" population="296852"/>
+		<city name="Cleveland" population="396682"/>
+		<city name="Cleveland Heights" population="46214"/>
+		<city name="Columbus" population="788877"/>
+		<city name="Cuyahoga Falls" population="49594"/>
+		<city name="Dayton" population="141960"/>
+		<city name="Defiance" population="17076"/>
+		<city name="Delaware" population="34756"/>
+		<city name="Dublin" population="41355"/>
+		<city name="East Cleveland" population="17844"/>
+		<city name="Eastlake" population="18620"/>
+		<city name="Elyria" population="54539"/>
+		<city name="Euclid" population="48905"/>
+		<city name="Fairborn" population="32918"/>
+		<city name="Fairfield" population="42503"/>
+		<city name="Fairview Park" population="16823"/>
+		<city name="Findlay" population="41185"/>
+		<city name="Forest Park" population="18728"/>
+		<city name="Fremont" population="16695"/>
+		<city name="Gahanna" population="33233"/>
+		<city name="Garfield Heights" population="28849"/>
+		<city name="Green" population="25740"/>
+		<city name="Grove City" population="35617"/>
+		<city name="Hamilton" population="62272"/>
+		<city name="Hilliard" population="28228"/>
+		<city name="Huber Heights" population="38101"/>
+		<city name="Hudson" population="22262"/>
+		<city name="Kent" population="28906"/>
+		<city name="Kettering" population="56145"/>
+		<city name="Lakewood" population="52131"/>
+		<city name="Lancaster" population="38762"/>
+		<city name="Lebanon" population="20032"/>
+		<city name="Lima" population="38639"/>
+		<city name="Lorain" population="64099"/>
+		<city name="Mansfield" population="47835"/>
+		<city name="Maple Heights" population="23138"/>
+		<city name="Marion" population="36828"/>
+		<city name="Marysville" population="22098"/>
+		<city name="Mason" population="30859"/>
+		<city name="Massillon" population="32243"/>
+		<city name="Mayfield Heights" population="19155"/>
+		<city name="Medina" population="26663"/>
+		<city name="Mentor" population="47159"/>
+		<city name="Miamisburg" population="20202"/>
+		<city name="Middleburg Heights" population="15946"/>
+		<city name="Middletown" population="48678"/>
+		<city name="Mount Vernon" population="16988"/>
+		<city name="Newark" population="47562"/>
+		<city name="New Franklin" population="14222"/>
+		<city name="New Philadelphia" population="17283"/>
+		<city name="Niles" population="19261"/>
+		<city name="North Canton" population="17484"/>
+		<city name="North Olmsted" population="32713"/>
+		<city name="North Ridgeville" population="29466"/>
+		<city name="North Royalton" population="30444"/>
+		<city name="Norwalk" population="17013"/>
+		<city name="Norwood" population="19174"/>
+		<city name="Oregon" population="20313"/>
+		<city name="Oxford" population="21377"/>
+		<city name="Painesville" population="19530"/>
+		<city name="Parma" population="81601"/>
+		<city name="Parma Heights" population="20718"/>
+		<city name="Pataskala" population="14926"/>
+		<city name="Perrysburg" population="20767"/>
+		<city name="Pickerington" population="18278"/>
+		<city name="Piqua" population="20514"/>
+		<city name="Portsmouth" population="20226"/>
+		<city name="Reynoldsburg" population="35911"/>
+		<city name="Riverside" population="25173"/>
+		<city name="Rocky River" population="20216"/>
+		<city name="Sandusky" population="25919"/>
+		<city name="Shaker Heights" population="28494"/>
+		<city name="Sidney" population="21220"/>
+		<city name="Solon" population="23343"/>
+		<city name="South Euclid" population="22295"/>
+		<city name="Springboro" population="17366"/>
+		<city name="Springfield" population="60612"/>
+		<city name="Steubenville" population="18659"/>
+		<city name="Stow" population="34837"/>
+		<city name="Streetsboro" population="16029"/>
+		<city name="Strongsville" population="44750"/>
+		<city name="Sylvania" population="18925"/>
+		<city name="Tallmadge" population="17572"/>
+		<city name="Tiffin" population="17961"/>
+		<city name="Toledo" population="287288"/>
+		<city name="Trotwood" population="24428"/>
+		<city name="Troy" population="25211"/>
+		<city name="Twinsburg" population="18796"/>
+		<city name="Upper Arlington" population="33702"/>
+		<city name="Vandalia" population="15262"/>
+		<city name="Wadsworth" population="21565"/>
+		<city name="Warren" population="41701"/>
+		<city name="Westerville" population="36267"/>
+		<city name="Westlake" population="32729"/>
+		<city name="Whitehall" population="18134"/>
+		<city name="White Oak" population="19167"/>
+		<city name="Willoughby" population="22231"/>
+		<city name="Wooster" population="26178"/>
+		<city name="Worthington" population="13570"/>
+		<city name="Xenia" population="25667"/>
+		<city name="Youngstown" population="66979"/>
+		<city name="Zanesville" population="25472"/>
+	</state>
+	<state name="Oklahoma" population="3751351">
+		<city name="Ada" population="16819"/>
+		<city name="Altus" population="19813"/>
+		<city name="Ardmore" population="24474"/>
+		<city name="Bartlesville" population="35752"/>
+		<city name="Bethany" population="19051"/>
+		<city name="Bixby" population="20910"/>
+		<city name="Broken Arrow" population="98843"/>
+		<city name="Chickasha" population="16032"/>
+		<city name="Claremore" population="18584"/>
+		<city name="Del City" population="21332"/>
+		<city name="Duncan" population="23419"/>
+		<city name="Durant" population="15861"/>
+		<city name="Edmond" population="81149"/>
+		<city name="El Reno" population="16749"/>
+		<city name="Enid" population="49379"/>
+		<city name="Jenks" population="16945"/>
+		<city name="Lawton" population="96867"/>
+		<city name="McAlester" population="18383"/>
+		<city name="Midwest City" population="54371"/>
+		<city name="Moore" population="55081"/>
+		<city name="Muskogee" population="39223"/>
+		<city name="Mustang" population="17395"/>
+		<city name="Norman" population="110925"/>
+		<city name="Oklahoma City" population="580254"/>
+		<city name="Owasso" population="29717"/>
+		<city name="Ponca City" population="25401"/>
+		<city name="Sand Springs" population="18869"/>
+		<city name="Sapulpa" population="20059"/>
+		<city name="Shawnee" population="29857"/>
+		<city name="Stillwater" population="45688"/>
+		<city name="Tahlequah" population="15739"/>
+		<city name="Tulsa" population="392012"/>
+		<city name="Yukon" population="22709"/>
+	</state>
+	<state name="Oregon" population="3831074">
+		<city name="Albany" population="50156"/>
+		<city name="Aloha" population="49425"/>
+		<city name="Altamont" population="19257"/>
+		<city name="Ashland" population="20078"/>
+		<city name="Beaverton" population="89786"/>
+		<city name="Bend" population="76639"/>
+		<city name="Bethany" population="20646"/>
+		<city name="Canby" population="16697"/>
+		<city name="Central Point" population="17098"/>
+		<city name="Coos Bay" population="15973"/>
+		<city name="Corvallis" population="54501"/>
+		<city name="Dallas" population="14568"/>
+		<city name="Eugene" population="156430"/>
+		<city name="Forest Grove" population="21325"/>
+		<city name="Four Corners" population="15947"/>
+		<city name="Grants Pass" population="35908"/>
+		<city name="Gresham" population="105641"/>
+		<city name="Happy Valley" population="14321"/>
+		<city name="Hayesville" population="19936"/>
+		<city name="Hermiston" population="16757"/>
+		<city name="Hillsboro" population="92251"/>
+		<city name="Keizer" population="36485"/>
+		<city name="Klamath Falls" population="20991"/>
+		<city name="Lake Oswego" population="36718"/>
+		<city name="Lebanon" population="15517"/>
+		<city name="McMinnville" population="32182"/>
+		<city name="Medford" population="74943"/>
+		<city name="Milwaukie" population="20292"/>
+		<city name="Newberg" population="22123"/>
+		<city name="Oak Grove" population="16629"/>
+		<city name="Oregon City" population="32609"/>
+		<city name="Pendleton" population="16612"/>
+		<city name="Portland" population="583799"/>
+		<city name="Redmond" population="26212"/>
+		<city name="Roseburg" population="22025"/>
+		<city name="Salem" population="154728"/>
+		<city name="Sherwood" population="18146"/>
+		<city name="Springfield" population="59388"/>
+		<city name="The Dalles" population="14965"/>
+		<city name="Tigard" population="48189"/>
+		<city name="Troutdale" population="15956"/>
+		<city name="Tualatin" population="26120"/>
+		<city name="West Linn" population="25100"/>
+		<city name="Wilsonville" population="19508"/>
+		<city name="Woodburn" population="24067"/>
+	</state>
+	<state name="Pennsylvania" population="12702379">
+		<city name="Allentown" population="118093"/>
+		<city name="Allison Park" population="21552"/>
+		<city name="Altoona" population="45984"/>
+		<city name="Baldwin" population="19767"/>
+		<city name="Bethel Park" population="32315"/>
+		<city name="Bethlehem" population="74986"/>
+		<city name="Carlisle" population="18682"/>
+		<city name="Chambersburg" population="20268"/>
+		<city name="Chester" population="33972"/>
+		<city name="Drexel Hill" population="28043"/>
+		<city name="Easton" population="26769"/>
+		<city name="Erie" population="101782"/>
+		<city name="Fullerton" population="14925"/>
+		<city name="Greensburg" population="14898"/>
+		<city name="Hanover" population="15277"/>
+		<city name="Harrisburg" population="49528"/>
+		<city name="Hazleton" population="25340"/>
+		<city name="Hermitage" population="16375"/>
+		<city name="Horsham" population="14842"/>
+		<city name="Johnstown" population="20975"/>
+		<city name="King of Prussia" population="19936"/>
+		<city name="Lancaster" population="59322"/>
+		<city name="Lansdale" population="16267"/>
+		<city name="Lebanon" population="25477"/>
+		<city name="Levittown" population="52983"/>
+		<city name="McKeesport" population="19732"/>
+		<city name="Monroeville" population="28341"/>
+		<city name="Mount Lebanon" population="33137"/>
+		<city name="Murrysville" population="20079"/>
+		<city name="New Castle" population="23273"/>
+		<city name="Norristown" population="34340"/>
+		<city name="Penn Hills" population="42347"/>
+		<city name="Philadelphia" population="1526006"/>
+		<city name="Phoenixville" population="16438"/>
+		<city name="Pittsburgh" population="305391"/>
+		<city name="Plum" population="27124"/>
+		<city name="Pottstown" population="22375"/>
+		<city name="Radnor Township" population="31524"/>
+		<city name="Reading" population="88079"/>
+		<city name="Scott Township" population="17024"/>
+		<city name="Scranton" population="76089"/>
+		<city name="Sharon" population="14038"/>
+		<city name="Springfield Township" population="24111"/>
+		<city name="State College" population="41980"/>
+		<city name="Upper St. Clair" population="19229"/>
+		<city name="West Chester" population="18459"/>
+		<city name="West Mifflin" population="20313"/>
+		<city name="West Norriton" population="15653"/>
+		<city name="Wilkes-Barre" population="41498"/>
+		<city name="Wilkinsburg" population="15930"/>
+		<city name="Williamsport" population="29381"/>
+		<city name="Willow Grove" population="15726"/>
+		<city name="York" population="43806"/>
+	</state>
+	<state name="Rhode Island" population="1052567">
+		<city name="Barrington" population="16286"/>
+		<city name="Bristol" population="22955"/>
+		<city name="Central Falls" population="19393"/>
+		<city name="Cranston" population="80396"/>
+		<city name="Cumberland Hill" population="7934"/>
+		<city name="East Providence" population="47061"/>
+		<city name="Greenville" population="8658"/>
+		<city name="Newport" population="24974"/>
+		<city name="Newport East" population="11769"/>
+		<city name="North Providence" population="32048"/>
+		<city name="Pawtucket" population="71169"/>
+		<city name="Providence" population="177997"/>
+		<city name="Tiverton" population="7557"/>
+		<city name="Valley Falls" population="11547"/>
+		<city name="Wakefield-Peacedale" population="8487"/>
+		<city name="Warwick" population="82655"/>
+		<city name="Westerly" population="17936"/>
+		<city name="West Warwick" population="29181"/>
+		<city name="Woonsocket" population="41209"/>
+	</state>
+	<state name="South Carolina" population="4625364">
+		<city name="Aiken" population="29566"/>
+		<city name="Anderson" population="26433"/>
+		<city name="Bluffton" population="13092"/>
+		<city name="Charleston" population="119997"/>
+		<city name="Clemson" population="13962"/>
+		<city name="Columbia" population="129819"/>
+		<city name="Conway" population="17336"/>
+		<city name="Easley" population="20026"/>
+		<city name="Florence" population="37451"/>
+		<city name="Fort Mill" population="11561"/>
+		<city name="Goose Creek" population="36437"/>
+		<city name="Greenville" population="59162"/>
+		<city name="Greenwood" population="23221"/>
+		<city name="Greer" population="25638"/>
+		<city name="Hanahan" population="17983"/>
+		<city name="Hilton Head Island" population="37094"/>
+		<city name="Lexington" population="18481"/>
+		<city name="Mauldin" population="23145"/>
+		<city name="Mount Pleasant" population="67814"/>
+		<city name="Myrtle Beach" population="27101"/>
+		<city name="North Augusta" population="21329"/>
+		<city name="North Charleston" population="97581"/>
+		<city name="North Myrtle Beach" population="13835"/>
+		<city name="Rock Hill" population="66558"/>
+		<city name="Seven Oaks" population="15144"/>
+		<city name="Simpsonville" population="18416"/>
+		<city name="Socastee" population="19952"/>
+		<city name="Spartanburg" population="36760"/>
+		<city name="St. Andrews" population="20493"/>
+		<city name="Summerville" population="42675"/>
+		<city name="Sumter" population="40541"/>
+		<city name="Taylors" population="21617"/>
+		<city name="Wade Hampton" population="20622"/>
+		<city name="West Columbia" population="16426"/>
+	</state>
+	<state name="South Dakota" population="814180">
+		<city name="Aberdeen" population="26105"/>
+		<city name="Box Elder" population="7811"/>
+		<city name="Brandon" population="8899"/>
+		<city name="Brookings" population="22076"/>
+		<city name="Huron" population="12597"/>
+		<city name="Madison" population="6499"/>
+		<city name="Mitchell" population="15276"/>
+		<city name="Pierre" population="13646"/>
+		<city name="Rapid City" population="68461"/>
+		<city name="Rapid Valley" population="8260"/>
+		<city name="Sioux Falls" population="153967"/>
+		<city name="Spearfish" population="10531"/>
+		<city name="Vermillion" population="10578"/>
+		<city name="Watertown" population="21540"/>
+		<city name="Yankton" population="14469"/>
+	</state>
+	<state name="Tennessee" population="6346105">
+		<city name="Bartlett" population="56920"/>
+		<city name="Brentwood" population="37084"/>
+		<city name="Bristol" population="26712"/>
+		<city name="Chattanooga" population="170315"/>
+		<city name="Clarksville" population="132906"/>
+		<city name="Cleveland" population="41264"/>
+		<city name="Collierville" population="45601"/>
+		<city name="Columbia" population="34638"/>
+		<city name="Cookeville" population="31125"/>
+		<city name="Dickson" population="14638"/>
+		<city name="Dyersburg" population="17136"/>
+		<city name="East Ridge" population="20982"/>
+		<city name="Farragut" population="20702"/>
+		<city name="Franklin" population="62594"/>
+		<city name="Gallatin" population="30338"/>
+		<city name="Germantown" population="38833"/>
+		<city name="Goodlettsville" population="15932"/>
+		<city name="Greeneville" population="15042"/>
+		<city name="Hendersonville" population="51319"/>
+		<city name="Jackson" population="66871"/>
+		<city name="Johnson City" population="63489"/>
+		<city name="Kingsport" population="52792"/>
+		<city name="Knoxville" population="178322"/>
+		<city name="La Vergne" population="32597"/>
+		<city name="Lebanon" population="26135"/>
+		<city name="Maryville" population="27413"/>
+		<city name="Memphis" population="651835"/>
+		<city name="Morristown" population="29005"/>
+		<city name="Mount Juliet" population="24789"/>
+		<city name="Murfreesboro" population="109140"/>
+		<city name="Nashville" population="603447"/>
+		<city name="Oak Ridge" population="29314"/>
+		<city name="Sevierville" population="14825"/>
+		<city name="Shelbyville" population="20307"/>
+		<city name="Smyrna" population="40357"/>
+		<city name="Springfield" population="16444"/>
+		<city name="Spring Hill" population="29056"/>
+		<city name="Tullahoma" population="18636"/>
+	</state>
+	<state name="Texas" population="25145561">
+		<city name="Abilene" population="117514"/>
+		<city name="Addison" population="13062"/>
+		<city name="Alamo" population="18507"/>
+		<city name="Aldine" population="15869"/>
+		<city name="Alice" population="19109"/>
+		<city name="Allen" population="84275"/>
+		<city name="Alton" population="13917"/>
+		<city name="Alvin" population="24239"/>
+		<city name="Amarillo" population="190666"/>
+		<city name="Angleton" population="18826"/>
+		<city name="Arlington" population="365336"/>
+		<city name="Atascocita" population="65844"/>
+		<city name="Austin" population="802142"/>
+		<city name="Balch Springs" population="23897"/>
+		<city name="Bay City" population="17618"/>
+		<city name="Baytown" population="71709"/>
+		<city name="Beaumont" population="117265"/>
+		<city name="Bedford" population="46994"/>
+		<city name="Bellaire" population="16911"/>
+		<city name="Belton" population="18205"/>
+		<city name="Benbrook" population="21327"/>
+		<city name="Big Spring" population="27282"/>
+		<city name="Boerne" population="10676"/>
+		<city name="Brenham" population="15824"/>
+		<city name="Brownsville" population="174755"/>
+		<city name="Brownwood" population="19287"/>
+		<city name="Brushy Creek" population="21764"/>
+		<city name="Bryan" population="76227"/>
+		<city name="Buda" population="7350"/>
+		<city name="Burleson" population="36901"/>
+		<city name="Canyon" population="13304"/>
+		<city name="Canyon Lake" population="21262"/>
+		<city name="Carrollton" population="119096"/>
+		<city name="Cedar Hill" population="44992"/>
+		<city name="Cedar Park" population="55093"/>
+		<city name="Channelview" population="38289"/>
+		<city name="Cibolo" population="20145"/>
+		<city name="Cinco Ranch" population="18274"/>
+		<city name="Cleburne" population="29637"/>
+		<city name="Cloverleaf" population="22942"/>
+		<city name="College Station" population="94221"/>
+		<city name="Colleyville" population="22805"/>
+		<city name="Conroe" population="64930"/>
+		<city name="Converse" population="18207"/>
+		<city name="Coppell" population="38659"/>
+		<city name="Copperas Cove" population="32247"/>
+		<city name="Corinth" population="19743"/>
+		<city name="Corpus Christi" population="305269"/>
+		<city name="Corsicana" population="23840"/>
+		<city name="Crowley" population="12838"/>
+		<city name="Dallas" population="1197824"/>
+		<city name="Deer Park" population="32010"/>
+		<city name="Del Rio" population="35926"/>
+		<city name="Denison" population="22742"/>
+		<city name="Denton" population="116364"/>
+		<city name="DeSoto" population="49043"/>
+		<city name="Dickinson" population="18677"/>
+		<city name="Donna" population="15741"/>
+		<city name="Dumas" population="14691"/>
+		<city name="Duncanville" population="38533"/>
+		<city name="Eagle Pass" population="26242"/>
+		<city name="Edinburg" population="76360"/>
+		<city name="El Paso" population="648245"/>
+		<city name="Ennis" population="18486"/>
+		<city name="Euless" population="51280"/>
+		<city name="Farmers Branch" population="28616"/>
+		<city name="Flower Mound" population="64675"/>
+		<city name="Forney" population="13824"/>
+		<city name="Fort Hood" population="29589"/>
+		<city name="Fort Worth" population="744959"/>
+		<city name="Fresno" population="19069"/>
+		<city name="Friendswood" population="35894"/>
+		<city name="Frisco" population="117089"/>
+		<city name="Gainesville" population="16007"/>
+		<city name="Galveston" population="47743"/>
+		<city name="Garland" population="226861"/>
+		<city name="Gatesville" population="12449"/>
+		<city name="Georgetown" population="47472"/>
+		<city name="Grand Prairie" population="175469"/>
+		<city name="Grapevine" population="46334"/>
+		<city name="Greenville" population="25541"/>
+		<city name="Groves" population="16144"/>
+		<city name="Haltom City" population="42367"/>
+		<city name="Harker Heights" population="26727"/>
+		<city name="Harlingen" population="64908"/>
+		<city name="Hereford" population="15370"/>
+		<city name="Highland Village" population="15084"/>
+		<city name="Horizon City" population="16730"/>
+		<city name="Houston" population="2094433"/>
+		<city name="Humble" population="15127"/>
+		<city name="Huntsville" population="38550"/>
+		<city name="Hurst" population="37335"/>
+		<city name="Hutto" population="16461"/>
+		<city name="Irving" population="216285"/>
+		<city name="Jacksonville" population="14537"/>
+		<city name="Jollyville" population="16151"/>
+		<city name="Katy" population="14109"/>
+		<city name="Keller" population="39627"/>
+		<city name="Kerrville" population="22394"/>
+		<city name="Kilgore" population="13473"/>
+		<city name="Killeen" population="127696"/>
+		<city name="Kingsville" population="26213"/>
+		<city name="Kyle" population="28257"/>
+		<city name="Lake Jackson" population="26832"/>
+		<city name="Lakeway" population="11646"/>
+		<city name="La Marque" population="14511"/>
+		<city name="Lancaster" population="36664"/>
+		<city name="La Porte" population="33806"/>
+		<city name="Laredo" population="236057"/>
+		<city name="League City" population="83563"/>
+		<city name="Leander" population="26697"/>
+		<city name="Lewisville" population="95393"/>
+		<city name="Little Elm" population="25877"/>
+		<city name="Live Oak" population="13137"/>
+		<city name="Longview" population="80425"/>
+		<city name="Lubbock" population="229627"/>
+		<city name="Lufkin" population="35106"/>
+		<city name="Mansfield" population="56421"/>
+		<city name="Marshall" population="23523"/>
+		<city name="McAllen" population="131029"/>
+		<city name="McKinney" population="131160"/>
+		<city name="Mercedes" population="15679"/>
+		<city name="Mesquite" population="139518"/>
+		<city name="Midland" population="111190"/>
+		<city name="Midlothian" population="18664"/>
+		<city name="Mineral Wells" population="16792"/>
+		<city name="Mission" population="77690"/>
+		<city name="Mission Bend" population="36501"/>
+		<city name="Missouri City" population="66688"/>
+		<city name="Mount Pleasant" population="15988"/>
+		<city name="Murphy" population="17877"/>
+		<city name="Nacogdoches" population="32934"/>
+		<city name="Nederland" population="17014"/>
+		<city name="New Braunfels" population="57729"/>
+		<city name="New Territory" population="15186"/>
+		<city name="North Richland Hills" population="63343"/>
+		<city name="Odessa" population="99876"/>
+		<city name="Orange" population="18608"/>
+		<city name="Palestine" population="18792"/>
+		<city name="Pampa" population="17994"/>
+		<city name="Paris" population="25251"/>
+		<city name="Pasadena" population="149307"/>
+		<city name="Pearland" population="93120"/>
+		<city name="Pecan Grove" population="15963"/>
+		<city name="Pflugerville" population="48366"/>
+		<city name="Pharr" population="70467"/>
+		<city name="Plainview" population="22194"/>
+		<city name="Plano" population="259857"/>
+		<city name="Port Arthur" population="54376"/>
+		<city name="Portland" population="15653"/>
+		<city name="Prosper" population="9523"/>
+		<city name="Richardson" population="99228"/>
+		<city name="Rockwall" population="37556"/>
+		<city name="Rosenberg" population="31876"/>
+		<city name="Round Rock" population="100011"/>
+		<city name="Rowlett" population="56242"/>
+		<city name="Sachse" population="20287"/>
+		<city name="Saginaw" population="19806"/>
+		<city name="San Angelo" population="93221"/>
+		<city name="San Antonio" population="1327343"/>
+		<city name="San Benito" population="24264"/>
+		<city name="San Juan" population="33985"/>
+		<city name="San Marcos" population="45122"/>
+		<city name="Schertz" population="31797"/>
+		<city name="Seagoville" population="14904"/>
+		<city name="Seguin" population="25601"/>
+		<city name="Sherman" population="38349"/>
+		<city name="Socorro" population="32052"/>
+		<city name="South Houston" population="16995"/>
+		<city name="Southlake" population="26575"/>
+		<city name="Spring" population="54298"/>
+		<city name="Stafford" population="17722"/>
+		<city name="Stephenville" population="17024"/>
+		<city name="Sugar Land" population="78600"/>
+		<city name="Sulphur Springs" population="15450"/>
+		<city name="Taylor" population="15281"/>
+		<city name="Temple" population="66075"/>
+		<city name="Terrell" population="16065"/>
+		<city name="Texarkana" population="36409"/>
+		<city name="Texas City" population="45091"/>
+		<city name="The Colony" population="36308"/>
+		<city name="The Woodlands" population="93847"/>
+		<city name="Tyler" population="96887"/>
+		<city name="Universal City" population="18530"/>
+		<city name="University Park" population="23068"/>
+		<city name="Uvalde" population="15752"/>
+		<city name="Victoria" population="62624"/>
+		<city name="Waco" population="124831"/>
+		<city name="Watauga" population="23497"/>
+		<city name="Waxahachie" population="29538"/>
+		<city name="Weatherford" population="25782"/>
+		<city name="Weslaco" population="36847"/>
+		<city name="West Odessa" population="22707"/>
+		<city name="West University Place" population="14560"/>
+		<city name="White Settlement" population="16116"/>
+		<city name="Wichita Falls" population="104724"/>
+		<city name="Wylie" population="41671"/>
+	</state>
+	<state name="Utah" population="2763885">
+		<city name="American Fork" population="26520"/>
+		<city name="Bountiful" population="42570"/>
+		<city name="Brigham City" population="17908"/>
+		<city name="Cedar City" population="28867"/>
+		<city name="Centerville" population="15305"/>
+		<city name="Clearfield" population="29927"/>
+		<city name="Clinton" population="20483"/>
+		<city name="Cottonwood Heights" population="33585"/>
+		<city name="Draper" population="42272"/>
+		<city name="Eagle Mountain" population="21931"/>
+		<city name="Farmington" population="18233"/>
+		<city name="Heber" population="11416"/>
+		<city name="Herriman" population="21768"/>
+		<city name="Highland" population="15567"/>
+		<city name="Holladay" population="30127"/>
+		<city name="Hurricane" population="13754"/>
+		<city name="Kaysville" population="27582"/>
+		<city name="Kearns" population="35731"/>
+		<city name="Layton" population="67539"/>
+		<city name="Lehi" population="47767"/>
+		<city name="Logan" population="48215"/>
+		<city name="Magna" population="26505"/>
+		<city name="Midvale" population="27999"/>
+		<city name="Millcreek" population="58739"/>
+		<city name="Murray" population="46685"/>
+		<city name="North Ogden" population="17398"/>
+		<city name="North Salt Lake" population="16199"/>
+		<city name="Ogden" population="82836"/>
+		<city name="Orem" population="88328"/>
+		<city name="Payson" population="18515"/>
+		<city name="Pleasant Grove" population="33547"/>
+		<city name="Provo" population="112487"/>
+		<city name="Riverton" population="38832"/>
+		<city name="Roy" population="36862"/>
+		<city name="Salt Lake City" population="186443"/>
+		<city name="Sandy" population="89950"/>
+		<city name="Saratoga Springs" population="17806"/>
+		<city name="South Jordan" population="50473"/>
+		<city name="South Ogden" population="16559"/>
+		<city name="South Salt Lake" population="23574"/>
+		<city name="Spanish Fork" population="34748"/>
+		<city name="Springville" population="29584"/>
+		<city name="St. George" population="72761"/>
+		<city name="Syracuse" population="24370"/>
+		<city name="Taylorsville" population="58688"/>
+		<city name="Tooele" population="31603"/>
+		<city name="Washington" population="18766"/>
+		<city name="West Jordan" population="103601"/>
+		<city name="West Valley City" population="129465"/>
+	</state>
+	<state name="Vermont" population="625741">
+		<city name="Barre" population="9049"/>
+		<city name="Bennington" population="9074"/>
+		<city name="Brattleboro" population="7414"/>
+		<city name="Burlington" population="42417"/>
+		<city name="Essex Junction" population="9273"/>
+		<city name="Middlebury" population="6588"/>
+		<city name="Montpelier" population="7849"/>
+		<city name="Rutland" population="16495"/>
+		<city name="South Burlington" population="17902"/>
+		<city name="St. Albans" population="6922"/>
+		<city name="St. Johnsbury" population="6193"/>
+		<city name="Winooski" population="7267"/>
+	</state>
+	<state name="Virginia" population="8001024">
+		<city name="Alexandria" population="140006"/>
+		<city name="Annandale" population="41008"/>
+		<city name="Arlington" population="207628"/>
+		<city name="Ashburn" population="43511"/>
+		<city name="Bailey's Crossroads" population="23643"/>
+		<city name="Blacksburg" population="42526"/>
+		<city name="Burke" population="41055"/>
+		<city name="Cave Spring" population="24922"/>
+		<city name="Centreville" population="71135"/>
+		<city name="Chantilly" population="23039"/>
+		<city name="Charlottesville" population="43428"/>
+		<city name="Chesapeake" population="222306"/>
+		<city name="Chester" population="20987"/>
+		<city name="Christiansburg" population="20965"/>
+		<city name="Dale City" population="65969"/>
+		<city name="Danville" population="43074"/>
+		<city name="Fairfax" population="22542"/>
+		<city name="Fair Oaks" population="30223"/>
+		<city name="Fredericksburg" population="24178"/>
+		<city name="Hampton" population="137384"/>
+		<city name="Harrisonburg" population="48909"/>
+		<city name="Herndon" population="23294"/>
+		<city name="Hopewell" population="22602"/>
+		<city name="Lake Ridge" population="41058"/>
+		<city name="Leesburg" population="42614"/>
+		<city name="Lincolnia" population="22855"/>
+		<city name="Linton Hall" population="35725"/>
+		<city name="Lynchburg" population="75532"/>
+		<city name="Manassas" population="37819"/>
+		<city name="Marumsco" population="35036"/>
+		<city name="McLean" population="48115"/>
+		<city name="Mechanicsville" population="36348"/>
+		<city name="Newport News" population="180963"/>
+		<city name="Norfolk" population="242823"/>
+		<city name="Oakton" population="34166"/>
+		<city name="Petersburg" population="32437"/>
+		<city name="Portsmouth" population="95527"/>
+		<city name="Reston" population="58404"/>
+		<city name="Richmond" population="204271"/>
+		<city name="Roanoke" population="96917"/>
+		<city name="Rose Hill" population="20226"/>
+		<city name="Salem" population="24817"/>
+		<city name="Short Pump" population="24729"/>
+		<city name="South Riding" population="24256"/>
+		<city name="Springfield" population="30484"/>
+		<city name="Staunton" population="23745"/>
+		<city name="Sterling" population="27822"/>
+		<city name="Suffolk" population="84570"/>
+		<city name="Tuckahoe" population="44990"/>
+		<city name="Tysons Corner" population="19627"/>
+		<city name="Virginia Beach" population="437907"/>
+		<city name="Waynesboro" population="21000"/>
+		<city name="West Falls Church" population="29207"/>
+		<city name="West Springfield" population="22460"/>
+		<city name="Winchester" population="26219"/>
+		<city name="Woodlawn" population="20804"/>
+	</state>
+	<state name="Washington" population="6724540">
+		<city name="Aberdeen" population="16884"/>
+		<city name="Anacortes" population="15767"/>
+		<city name="Arlington" population="17945"/>
+		<city name="Auburn" population="70162"/>
+		<city name="Bainbridge Island" population="23025"/>
+		<city name="Battle Ground" population="17778"/>
+		<city name="Bellevue" population="127887"/>
+		<city name="Bellingham" population="81252"/>
+		<city name="Bonney Lake" population="17380"/>
+		<city name="Bothell" population="39870"/>
+		<city name="Bothell West" population="16607"/>
+		<city name="Bremerton" population="37795"/>
+		<city name="Bryn Mawr-Skyway" population="15645"/>
+		<city name="Burien" population="48072"/>
+		<city name="Camas" population="19823"/>
+		<city name="Centralia" population="16619"/>
+		<city name="Cottage Lake" population="22494"/>
+		<city name="Covington" population="17565"/>
+		<city name="Des Moines" population="29655"/>
+		<city name="Eastmont" population="20101"/>
+		<city name="Edmonds" population="39744"/>
+		<city name="Ellensburg" population="18397"/>
+		<city name="Everett" population="103052"/>
+		<city name="Fairwood" population="19102"/>
+		<city name="Federal Way" population="89302"/>
+		<city name="Five Corners" population="18159"/>
+		<city name="Frederickson" population="18719"/>
+		<city name="Graham" population="23491"/>
+		<city name="Hazel Dell" population="19435"/>
+		<city name="Issaquah" population="30439"/>
+		<city name="Kenmore" population="20469"/>
+		<city name="Kennewick" population="73990"/>
+		<city name="Kent" population="118614"/>
+		<city name="Kirkland" population="80585"/>
+		<city name="Lacey" population="42572"/>
+		<city name="Lake Stevens" population="28060"/>
+		<city name="Lakewood" population="57527"/>
+		<city name="Longview" population="36836"/>
+		<city name="Lynnwood" population="35881"/>
+		<city name="Maple Valley" population="22686"/>
+		<city name="Martha Lake" population="15473"/>
+		<city name="Marysville" population="60007"/>
+		<city name="Mercer Island" population="22699"/>
+		<city name="Mill Creek" population="18198"/>
+		<city name="Mill Creek East" population="15709"/>
+		<city name="Monroe" population="17343"/>
+		<city name="Moses Lake" population="20380"/>
+		<city name="Mountlake Terrace" population="19888"/>
+		<city name="Mount Vernon" population="31722"/>
+		<city name="Mukilteo" population="20286"/>
+		<city name="North Lynnwood" population="16574"/>
+		<city name="Oak Harbor" population="22167"/>
+		<city name="Olympia" population="46777"/>
+		<city name="Orchards" population="19556"/>
+		<city name="Parkland" population="35803"/>
+		<city name="Pasco" population="62166"/>
+		<city name="Port Angeles" population="19040"/>
+		<city name="Pullman" population="29825"/>
+		<city name="Puyallup" population="37241"/>
+		<city name="Redmond" population="54315"/>
+		<city name="Renton" population="91900"/>
+		<city name="Richland" population="48102"/>
+		<city name="Salmon Creek" population="19686"/>
+		<city name="Sammamish" population="57445"/>
+		<city name="SeaTac" population="26901"/>
+		<city name="Seattle" population="608664"/>
+		<city name="Shoreline" population="53031"/>
+		<city name="Silverdale" population="19204"/>
+		<city name="Silver Firs" population="20891"/>
+		<city name="South Hill" population="52431"/>
+		<city name="Spanaway" population="27227"/>
+		<city name="Spokane" population="209455"/>
+		<city name="Spokane Valley" population="89743"/>
+		<city name="Sunnyside" population="15922"/>
+		<city name="Tacoma" population="198248"/>
+		<city name="Tukwila" population="19115"/>
+		<city name="Tumwater" population="20146"/>
+		<city name="Union Hill-Novelty Hill" population="18805"/>
+		<city name="University Place" population="31133"/>
+		<city name="Vancouver" population="162492"/>
+		<city name="Walla Walla" population="32433"/>
+		<city name="Washougal" population="14101"/>
+		<city name="Wenatchee" population="32419"/>
+		<city name="Yakima" population="91275"/>
+	</state>
+	<state name="West Virginia" population="1852994">
+		<city name="Beckley" population="17614"/>
+		<city name="Bluefield" population="10436"/>
+		<city name="Charleston" population="51340"/>
+		<city name="Clarksburg" population="16553"/>
+		<city name="Fairmont" population="18706"/>
+		<city name="Huntington" population="49202"/>
+		<city name="Martinsburg" population="17202"/>
+		<city name="Morgantown" population="28343"/>
+		<city name="Parkersburg" population="31285"/>
+		<city name="South Charleston" population="13508"/>
+		<city name="St. Albans" population="11039"/>
+		<city name="Teays Valley" population="13175"/>
+		<city name="Vienna" population="10833"/>
+		<city name="Weirton" population="19743"/>
+		<city name="Wheeling" population="28572"/>
+	</state>
+	<state name="Wisconsin" population="5686986">
+		<city name="Appleton" population="72713"/>
+		<city name="Ashwaubenon" population="16943"/>
+		<city name="Beaver Dam" population="16210"/>
+		<city name="Bellevue" population="14710"/>
+		<city name="Beloit" population="37003"/>
+		<city name="Brookfield" population="37918"/>
+		<city name="Caledonia" population="24701"/>
+		<city name="Cudahy" population="18271"/>
+		<city name="De Pere" population="23843"/>
+		<city name="Eau Claire" population="66220"/>
+		<city name="Fitchburg" population="25163"/>
+		<city name="Fond du Lac" population="43043"/>
+		<city name="Franklin" population="35456"/>
+		<city name="Germantown" population="19757"/>
+		<city name="Green Bay" population="103909"/>
+		<city name="Greenfield" population="36751"/>
+		<city name="Hartford" population="14242"/>
+		<city name="Howard" population="17397"/>
+		<city name="Janesville" population="63621"/>
+		<city name="Kaukauna" population="15469"/>
+		<city name="Kenosha" population="99271"/>
+		<city name="La Crosse" population="51343"/>
+		<city name="Madison" population="233085"/>
+		<city name="Manitowoc" population="33745"/>
+		<city name="Marshfield" population="19089"/>
+		<city name="Menasha" population="17433"/>
+		<city name="Menomonee Falls" population="35623"/>
+		<city name="Menomonie" population="16280"/>
+		<city name="Mequon" population="23139"/>
+		<city name="Middleton" population="17562"/>
+		<city name="Milwaukee" population="594771"/>
+		<city name="Mount Pleasant" population="26210"/>
+		<city name="Muskego" population="24135"/>
+		<city name="Neenah" population="25503"/>
+		<city name="New Berlin" population="39584"/>
+		<city name="Oak Creek" population="34452"/>
+		<city name="Oconomowoc" population="15804"/>
+		<city name="Onalaska" population="17804"/>
+		<city name="Oshkosh" population="66188"/>
+		<city name="Pleasant Prairie" population="19721"/>
+		<city name="Racine" population="78833"/>
+		<city name="River Falls" population="15008"/>
+		<city name="Sheboygan" population="49313"/>
+		<city name="South Milwaukee" population="21155"/>
+		<city name="Stevens Point" population="26727"/>
+		<city name="Sun Prairie" population="29537"/>
+		<city name="Superior" population="27235"/>
+		<city name="Watertown" population="23857"/>
+		<city name="Waukesha" population="71232"/>
+		<city name="Wausau" population="39162"/>
+		<city name="Wauwatosa" population="46449"/>
+		<city name="West Allis" population="60418"/>
+		<city name="West Bend" population="31198"/>
+		<city name="Weston" population="14905"/>
+		<city name="Whitewater" population="14390"/>
+		<city name="Wisconsin Rapids" population="18386"/>
+	</state>
+	<state name="Wyoming" population="563626">
+		<city name="Casper" population="55317"/>
+		<city name="Cheyenne" population="59667"/>
+		<city name="Cody" population="9520"/>
+		<city name="Evanston" population="12387"/>
+		<city name="Gillette" population="29819"/>
+		<city name="Green River" population="12515"/>
+		<city name="Jackson" population="9606"/>
+		<city name="Lander" population="7597"/>
+		<city name="Laramie" population="30815"/>
+		<city name="Rawlins" population="9259"/>
+		<city name="Riverton" population="10923"/>
+		<city name="Rock Springs" population="23036"/>
+		<city name="Sheridan" population="17450"/>
+	</state>
+</USA>
